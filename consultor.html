@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Caderno de Vendas · Consultor</title>
+<link rel="stylesheet" href="./style.css">
+<script src="./lib/chart.umd.js"></script>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="im-badge"><img src="./assets/im-logo.png" alt="IM"></div>
+  <div class="brand-ko">Coca-Cola</div>
+  <div class="brand-sep"></div>
+  <div class="brand-sub">Grupo José Alves<br><b>Caderno de Vendas · Consultor</b></div>
+  <div class="nav-links">
+    <a href="./index.html">Gestão</a>
+    <a href="./consultor.html" class="active">Consultor</a>
+    <a href="./pdf.html">Gerar PDF</a>
+  </div>
+  <div class="spacer"></div>
+  <div class="meta" id="topMeta">carregando...</div>
+</div>
+
+<div class="container">
+
+  <div class="filterbar">
+    <div class="field">
+      <label>Gerência</label>
+      <select id="fGc"><option value="">Selecione</option></select>
+    </div>
+    <div class="field">
+      <label>Supervisão</label>
+      <select id="fSv"><option value="">Selecione</option></select>
+    </div>
+    <div class="field">
+      <label>Rota</label>
+      <select id="fRota"><option value="">Selecione</option></select>
+    </div>
+    <div class="field">
+      <label>Grupo de Produto</label>
+      <select id="fProduto"><option value="">Todos</option></select>
+    </div>
+    <button class="btn ghost sm" id="btnClear" style="margin-left:auto">Limpar filtros</button>
+  </div>
+
+  <div id="app" class="loading">Selecione a sua Gerência, Supervisão e Rota acima.</div>
+
+</div>
+
+<footer class="note">Caderno de Vendas — Grupo José Alves · Protótipo interno · Visão do Consultor</footer>
+
+<script src="./data.js"></script>
+<script src="./app-common.js"></script>
+<script src="./app-consultor.js"></script>
+</body>
+</html>
