@@ -1,0 +1,1745 @@
+[
+{
+"key_account": "Indeterminado",
+"cod_key_account": "99999",
+"vol_real": 2779182.415,
+"fat_real": 77647673.08,
+"qtd_clientes": 22001
+},
+{
+"key_account": "Atacadão (Carrefour)",
+"cod_key_account": "298",
+"vol_real": 113506.656,
+"fat_real": 3513612.84,
+"qtd_clientes": 4
+},
+{
+"key_account": "Super Reis",
+"cod_key_account": "1131",
+"vol_real": 67493.755,
+"fat_real": 2893957.29,
+"qtd_clientes": 24
+},
+{
+"key_account": "Assai",
+"cod_key_account": "324",
+"vol_real": 128554.048,
+"fat_real": 2325842.84,
+"qtd_clientes": 10
+},
+{
+"key_account": "Dist Canaa",
+"cod_key_account": "1183",
+"vol_real": 61141.124,
+"fat_real": 1858756.9,
+"qtd_clientes": 4
+},
+{
+"key_account": "Atacadão Dia A Dia",
+"cod_key_account": "1168",
+"vol_real": 95701.813,
+"fat_real": 1729817.25,
+"qtd_clientes": 8
+},
+{
+"key_account": "Rede Batista",
+"cod_key_account": "1573",
+"vol_real": 63385.689,
+"fat_real": 1622270.39,
+"qtd_clientes": 3
+},
+{
+"key_account": "Imperio Multimarcas - Neut.",
+"cod_key_account": "1036",
+"vol_real": 84869.568,
+"fat_real": 1483351.98,
+"qtd_clientes": 1
+},
+{
+"key_account": "Costa Multicanal",
+"cod_key_account": "1171",
+"vol_real": 102219.265,
+"fat_real": 1462903.05,
+"qtd_clientes": 9
+},
+{
+"key_account": "Rede Store Superm",
+"cod_key_account": "1115",
+"vol_real": 64690.745,
+"fat_real": 1411785.45,
+"qtd_clientes": 14
+},
+{
+"key_account": "Bretas",
+"cod_key_account": "261",
+"vol_real": 14057.588,
+"fat_real": 1365006.86,
+"qtd_clientes": 19
+},
+{
+"key_account": "Quartetto Superm",
+"cod_key_account": "1117",
+"vol_real": 46503.712,
+"fat_real": 1210402.92,
+"qtd_clientes": 12
+},
+{
+"key_account": "Sim Atacado",
+"cod_key_account": "1162",
+"vol_real": 31024.018,
+"fat_real": 1123338.74,
+"qtd_clientes": 4
+},
+{
+"key_account": "Supermercado Tatico",
+"cod_key_account": "1110",
+"vol_real": 45179.68,
+"fat_real": 986032.49,
+"qtd_clientes": 6
+},
+{
+"key_account": "Mega Atakarejo",
+"cod_key_account": "1192",
+"vol_real": 21025.934,
+"fat_real": 731812.9,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Vi Supermercado",
+"cod_key_account": "1111",
+"vol_real": 28805.77,
+"fat_real": 660434.07,
+"qtd_clientes": 14
+},
+{
+"key_account": "Mercadão Da Economia",
+"cod_key_account": "1209",
+"vol_real": 20895.549,
+"fat_real": 655472.79,
+"qtd_clientes": 6
+},
+{
+"key_account": "Carrefour",
+"cod_key_account": "31",
+"vol_real": 40994.137,
+"fat_real": 646840.34,
+"qtd_clientes": 3
+},
+{
+"key_account": "Petrolíder Conveniência",
+"cod_key_account": "1017",
+"vol_real": 28417.432,
+"fat_real": 605099.45,
+"qtd_clientes": 10
+},
+{
+"key_account": "Beira Rio Supermercado",
+"cod_key_account": "1106",
+"vol_real": 27842.489,
+"fat_real": 576649.64,
+"qtd_clientes": 5
+},
+{
+"key_account": "Super Terraco",
+"cod_key_account": "1813",
+"vol_real": 19237.825,
+"fat_real": 575966.37,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Duda",
+"cod_key_account": "1196",
+"vol_real": 30144.906,
+"fat_real": 569224.48,
+"qtd_clientes": 3
+},
+{
+"key_account": "Pro Brazilian",
+"cod_key_account": "1116",
+"vol_real": 32744.263,
+"fat_real": 542434.29,
+"qtd_clientes": 7
+},
+{
+"key_account": "Super Norte",
+"cod_key_account": "1137",
+"vol_real": 25110.477,
+"fat_real": 525896.48,
+"qtd_clientes": 3
+},
+{
+"key_account": "Show Atacado - Neut.",
+"cod_key_account": "1030",
+"vol_real": 12614.12,
+"fat_real": 480478.08,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Rio Vermelho",
+"cod_key_account": "1132",
+"vol_real": 16484.139,
+"fat_real": 431618.41,
+"qtd_clientes": 3
+},
+{
+"key_account": "Super Londom",
+"cod_key_account": "1593",
+"vol_real": 12059.801,
+"fat_real": 426945.02,
+"qtd_clientes": 1
+},
+{
+"key_account": "O Vendão Super",
+"cod_key_account": "1226",
+"vol_real": 19254.222,
+"fat_real": 422090.81,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Rio Das Pedras",
+"cod_key_account": "1133",
+"vol_real": 5516.455,
+"fat_real": 409406.98,
+"qtd_clientes": 5
+},
+{
+"key_account": "Super Big",
+"cod_key_account": "1120",
+"vol_real": 11074.156,
+"fat_real": 394021.95,
+"qtd_clientes": 9
+},
+{
+"key_account": "Vr Bebidas - Neut.",
+"cod_key_account": "1039",
+"vol_real": 7233.962,
+"fat_real": 361466.66,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Dinamite",
+"cod_key_account": "1145",
+"vol_real": 12548.281,
+"fat_real": 351975.41,
+"qtd_clientes": 8
+},
+{
+"key_account": "Marlon Atacarejo - Neut.",
+"cod_key_account": "1063",
+"vol_real": 10868.431,
+"fat_real": 336552.46,
+"qtd_clientes": 1
+},
+{
+"key_account": "Rota 19 Distribuidora",
+"cod_key_account": "1014",
+"vol_real": 12436.399,
+"fat_real": 328458.18,
+"qtd_clientes": 2
+},
+{
+"key_account": "Superm Brotas",
+"cod_key_account": "1150",
+"vol_real": 9498.347,
+"fat_real": 322434.09,
+"qtd_clientes": 4
+},
+{
+"key_account": "Super União",
+"cod_key_account": "1174",
+"vol_real": 11869.15,
+"fat_real": 320489.34,
+"qtd_clientes": 5
+},
+{
+"key_account": "Rede 007",
+"cod_key_account": "1572",
+"vol_real": 10284.029,
+"fat_real": 319609.63,
+"qtd_clientes": 4
+},
+{
+"key_account": "Superm Lucas",
+"cod_key_account": "1126",
+"vol_real": 12446.434,
+"fat_real": 314259.07,
+"qtd_clientes": 8
+},
+{
+"key_account": "Super J.A",
+"cod_key_account": "1251",
+"vol_real": 13077.417,
+"fat_real": 310191.56,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Marcus",
+"cod_key_account": "1159",
+"vol_real": 12242.553,
+"fat_real": 280724.84,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Marinho",
+"cod_key_account": "1223",
+"vol_real": 8955.623,
+"fat_real": 280335.74,
+"qtd_clientes": 4
+},
+{
+"key_account": "Atacadão Preços Baixos",
+"cod_key_account": "1073",
+"vol_real": 9125.155,
+"fat_real": 278994.19,
+"qtd_clientes": 4
+},
+{
+"key_account": "Comercial Goiás",
+"cod_key_account": "1018",
+"vol_real": 9890.194,
+"fat_real": 273850.24,
+"qtd_clientes": 7
+},
+{
+"key_account": "Malun Superm",
+"cod_key_account": "1127",
+"vol_real": 6932.541,
+"fat_real": 268365.22,
+"qtd_clientes": 2
+},
+{
+"key_account": "Luciano'S Supermercado",
+"cod_key_account": "1825",
+"vol_real": 12615.449,
+"fat_real": 267253.55,
+"qtd_clientes": 1
+},
+{
+"key_account": "Jorges Atacado",
+"cod_key_account": "1242",
+"vol_real": 14837.232,
+"fat_real": 264933.08,
+"qtd_clientes": 1
+},
+{
+"key_account": "Sam'S Club (Wal Mart)",
+"cod_key_account": "129",
+"vol_real": 15401.713,
+"fat_real": 254893.62,
+"qtd_clientes": 1
+},
+{
+"key_account": "Echope",
+"cod_key_account": "1069",
+"vol_real": 2304.691,
+"fat_real": 252626.13,
+"qtd_clientes": 10
+},
+{
+"key_account": "Super Mega Uruaçu",
+"cod_key_account": "1841",
+"vol_real": 9528.754,
+"fat_real": 242357.85,
+"qtd_clientes": 2
+},
+{
+"key_account": "Celeiro Supermercado Ltda",
+"cod_key_account": "1582",
+"vol_real": 7653.56,
+"fat_real": 238853.67,
+"qtd_clientes": 5
+},
+{
+"key_account": "Pao De Acucar (Cbd)",
+"cod_key_account": "40",
+"vol_real": 12531.253,
+"fat_real": 237629.05,
+"qtd_clientes": 3
+},
+{
+"key_account": "Ville Fort",
+"cod_key_account": "1228",
+"vol_real": 11676.704,
+"fat_real": 234622.53,
+"qtd_clientes": 2
+},
+{
+"key_account": "Ueslei Rodrigues Pacheco E Cia",
+"cod_key_account": "1129",
+"vol_real": 12992.964,
+"fat_real": 234305.01,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Conquista Sl",
+"cod_key_account": "1092",
+"vol_real": 8216.983,
+"fat_real": 228563.64,
+"qtd_clientes": 1
+},
+{
+"key_account": "Rede Arte Massas",
+"cod_key_account": "1260",
+"vol_real": 6847.58,
+"fat_real": 226258.73,
+"qtd_clientes": 2
+},
+{
+"key_account": "Brasil 3e",
+"cod_key_account": "1240",
+"vol_real": 10453.366,
+"fat_real": 225175.75,
+"qtd_clientes": 4
+},
+{
+"key_account": "Atacado Bandeiras - Neut.",
+"cod_key_account": "1058",
+"vol_real": 12732.078,
+"fat_real": 223835.19,
+"qtd_clientes": 1
+},
+{
+"key_account": "Villefort",
+"cod_key_account": "1262",
+"vol_real": 6258.18,
+"fat_real": 218172.14,
+"qtd_clientes": 2
+},
+{
+"key_account": "Dia A Dia Atacado Palmas",
+"cod_key_account": "1065",
+"vol_real": 9434.559,
+"fat_real": 209188.64,
+"qtd_clientes": 3
+},
+{
+"key_account": "Emporio Two Brothers",
+"cod_key_account": "1239",
+"vol_real": 4289.961,
+"fat_real": 206221.8,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Jaime",
+"cod_key_account": "1135",
+"vol_real": 8763.831,
+"fat_real": 202014.43,
+"qtd_clientes": 3
+},
+{
+"key_account": "Lider Gyn",
+"cod_key_account": "1048",
+"vol_real": 10738.355,
+"fat_real": 201606.04,
+"qtd_clientes": 2
+},
+{
+"key_account": "Atacadao Das Bebidas - Neut.",
+"cod_key_account": "1053",
+"vol_real": 3824.278,
+"fat_real": 198631.38,
+"qtd_clientes": 1
+},
+{
+"key_account": "Atende Mais Superm",
+"cod_key_account": "1119",
+"vol_real": 9820.903,
+"fat_real": 190603.12,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Canaa Rio Verde - Neut.",
+"cod_key_account": "1062",
+"vol_real": 15031.859,
+"fat_real": 189381.21,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Varejão",
+"cod_key_account": "1255",
+"vol_real": 2195.543,
+"fat_real": 182626.01,
+"qtd_clientes": 1
+},
+{
+"key_account": "Drog. Pacheco",
+"cod_key_account": "428",
+"vol_real": 6665.118,
+"fat_real": 180210.04,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Ferreira",
+"cod_key_account": "1249",
+"vol_real": 8969.216,
+"fat_real": 179853.1,
+"qtd_clientes": 1
+},
+{
+"key_account": "Supermercado Rodrigues",
+"cod_key_account": "1075",
+"vol_real": 9684.21,
+"fat_real": 179842.75,
+"qtd_clientes": 3
+},
+{
+"key_account": "Comercial Bom Preco - Neut.",
+"cod_key_account": "1037",
+"vol_real": 6831.498,
+"fat_real": 176006.87,
+"qtd_clientes": 1
+},
+{
+"key_account": "Atacadão Barreto",
+"cod_key_account": "1230",
+"vol_real": 7161.138,
+"fat_real": 175028.88,
+"qtd_clientes": 1
+},
+{
+"key_account": "Empório Prime",
+"cod_key_account": "1165",
+"vol_real": 5271.428,
+"fat_real": 174561.36,
+"qtd_clientes": 3
+},
+{
+"key_account": "Barão Atacadista",
+"cod_key_account": "1232",
+"vol_real": 9844.237,
+"fat_real": 171804.35,
+"qtd_clientes": 1
+},
+{
+"key_account": "O Seu Verdurao",
+"cod_key_account": "1565",
+"vol_real": 4401.523,
+"fat_real": 171768.0,
+"qtd_clientes": 3
+},
+{
+"key_account": "Floresta Superm",
+"cod_key_account": "1154",
+"vol_real": 8754.281,
+"fat_real": 166351.52,
+"qtd_clientes": 3
+},
+{
+"key_account": "Nao Cliente Chave",
+"cod_key_account": null,
+"vol_real": 4961.77,
+"fat_real": 161208.33,
+"qtd_clientes": 71
+},
+{
+"key_account": "Campeao Supermercado",
+"cod_key_account": "1107",
+"vol_real": 11142.501,
+"fat_real": 160799.54,
+"qtd_clientes": 9
+},
+{
+"key_account": "Super Raio De Sol",
+"cod_key_account": "1188",
+"vol_real": 3580.88,
+"fat_real": 159510.53,
+"qtd_clientes": 1
+},
+{
+"key_account": "Lider Atacarejo - Neut.",
+"cod_key_account": "1047",
+"vol_real": 1309.293,
+"fat_real": 152528.72,
+"qtd_clientes": 2
+},
+{
+"key_account": "Araguaia Bebidas",
+"cod_key_account": "1153",
+"vol_real": 6327.816,
+"fat_real": 150450.95,
+"qtd_clientes": 1
+},
+{
+"key_account": "Por Do Sol",
+"cod_key_account": "1222",
+"vol_real": 5878.346,
+"fat_real": 145342.76,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super D",
+"cod_key_account": "1247",
+"vol_real": 5967.55,
+"fat_real": 144503.94,
+"qtd_clientes": 1
+},
+{
+"key_account": "Supervi Gyn",
+"cod_key_account": "1202",
+"vol_real": 4302.77,
+"fat_real": 135979.16,
+"qtd_clientes": 3
+},
+{
+"key_account": "Sempre Seis Super",
+"cod_key_account": "1810",
+"vol_real": 9643.665,
+"fat_real": 134406.75,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Arroba",
+"cod_key_account": "1576",
+"vol_real": 5704.052,
+"fat_real": 128987.18,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Martins",
+"cod_key_account": "1093",
+"vol_real": 5642.047,
+"fat_real": 127816.14,
+"qtd_clientes": 6
+},
+{
+"key_account": "Conquista Supermercado",
+"cod_key_account": "1108",
+"vol_real": 4353.265,
+"fat_real": 126122.66,
+"qtd_clientes": 3
+},
+{
+"key_account": "Super Nossa Senhora Aparecida",
+"cod_key_account": "1215",
+"vol_real": 4653.032,
+"fat_real": 124469.04,
+"qtd_clientes": 4
+},
+{
+"key_account": "Distribuidora K Neves - Neut.",
+"cod_key_account": "1050",
+"vol_real": 11108.618,
+"fat_real": 117075.14,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Triunfo",
+"cod_key_account": "1167",
+"vol_real": 3657.574,
+"fat_real": 115513.46,
+"qtd_clientes": 2
+},
+{
+"key_account": "Nosso Novo Superm",
+"cod_key_account": "1156",
+"vol_real": 4301.551,
+"fat_real": 112438.62,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Jd",
+"cod_key_account": "1252",
+"vol_real": 14121.062,
+"fat_real": 112407.1,
+"qtd_clientes": 1
+},
+{
+"key_account": "Distr. De Bebidas Monteiro - N",
+"cod_key_account": "1031",
+"vol_real": 6919.601,
+"fat_real": 112300.78,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Moreira It",
+"cod_key_account": "1147",
+"vol_real": 3195.849,
+"fat_real": 111584.69,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Siao - Neut.",
+"cod_key_account": "1045",
+"vol_real": 3655.697,
+"fat_real": 111525.24,
+"qtd_clientes": 1
+},
+{
+"key_account": "Bem Atacarejo",
+"cod_key_account": "1234",
+"vol_real": 5708.663,
+"fat_real": 108607.33,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Couto Rialma",
+"cod_key_account": "1012",
+"vol_real": 4719.943,
+"fat_real": 107652.05,
+"qtd_clientes": 2
+},
+{
+"key_account": "Smart Anicuns",
+"cod_key_account": "1211",
+"vol_real": 5571.558,
+"fat_real": 104272.46,
+"qtd_clientes": 1
+},
+{
+"key_account": "Baratao Shopping",
+"cod_key_account": "1590",
+"vol_real": 4795.566,
+"fat_real": 96847.51,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Padrao",
+"cod_key_account": "1079",
+"vol_real": 3140.467,
+"fat_real": 91818.61,
+"qtd_clientes": 3
+},
+{
+"key_account": "Supermercado 2000",
+"cod_key_account": "1840",
+"vol_real": 3027.583,
+"fat_real": 91120.24,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Master",
+"cod_key_account": "1134",
+"vol_real": 3849.437,
+"fat_real": 91112.54,
+"qtd_clientes": 2
+},
+{
+"key_account": "Rede Big Lar Goiânia",
+"cod_key_account": "1179",
+"vol_real": 3417.584,
+"fat_real": 87222.37,
+"qtd_clientes": 42
+},
+{
+"key_account": "Smart Supermercado",
+"cod_key_account": "1827",
+"vol_real": 3592.715,
+"fat_real": 86431.12,
+"qtd_clientes": 1
+},
+{
+"key_account": "Economia Super Rv",
+"cod_key_account": "1160",
+"vol_real": 2231.758,
+"fat_real": 85205.45,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Sacola Cheia",
+"cod_key_account": "1166",
+"vol_real": 4465.397,
+"fat_real": 83207.7,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Cavalcant",
+"cod_key_account": "1008",
+"vol_real": 1458.432,
+"fat_real": 82654.93,
+"qtd_clientes": 4
+},
+{
+"key_account": "Super Marques",
+"cod_key_account": "1176",
+"vol_real": 3284.567,
+"fat_real": 81827.84,
+"qtd_clientes": 2
+},
+{
+"key_account": "Comercial Mendes - Neut.",
+"cod_key_account": "1059",
+"vol_real": 11187.6,
+"fat_real": 81396.76,
+"qtd_clientes": 1
+},
+{
+"key_account": "Trevizo Super",
+"cod_key_account": "1227",
+"vol_real": 2332.791,
+"fat_real": 77498.77,
+"qtd_clientes": 2
+},
+{
+"key_account": "Baratao Supermercado",
+"cod_key_account": "1819",
+"vol_real": 2411.74,
+"fat_real": 76899.77,
+"qtd_clientes": 1
+},
+{
+"key_account": "Merc E Conv Dos Gauchos",
+"cod_key_account": "1821",
+"vol_real": 5148.461,
+"fat_real": 75463.11,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Para Todos",
+"cod_key_account": "1139",
+"vol_real": 6079.899,
+"fat_real": 74867.19,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Mana",
+"cod_key_account": "1087",
+"vol_real": 2251.066,
+"fat_real": 74471.22,
+"qtd_clientes": 2
+},
+{
+"key_account": "Machadão Supermercado",
+"cod_key_account": "1205",
+"vol_real": 2821.895,
+"fat_real": 74186.88,
+"qtd_clientes": 3
+},
+{
+"key_account": "Supermercado Goiabao",
+"cod_key_account": "1585",
+"vol_real": 3431.165,
+"fat_real": 73912.6,
+"qtd_clientes": 3
+},
+{
+"key_account": "Super Bem Barato",
+"cod_key_account": "1072",
+"vol_real": 3180.313,
+"fat_real": 73446.42,
+"qtd_clientes": 1
+},
+{
+"key_account": "Rei Da Economia",
+"cod_key_account": "1170",
+"vol_real": 3603.416,
+"fat_real": 73228.28,
+"qtd_clientes": 3
+},
+{
+"key_account": "Super Barbosa",
+"cod_key_account": "1158",
+"vol_real": 2748.433,
+"fat_real": 72177.25,
+"qtd_clientes": 3
+},
+{
+"key_account": "Super 10",
+"cod_key_account": "1245",
+"vol_real": 3344.552,
+"fat_real": 71893.91,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Couto Aparecida",
+"cod_key_account": "1124",
+"vol_real": 3550.469,
+"fat_real": 70979.47,
+"qtd_clientes": 3
+},
+{
+"key_account": "Super Vitoria",
+"cod_key_account": "1842",
+"vol_real": 2481.116,
+"fat_real": 69231.65,
+"qtd_clientes": 1
+},
+{
+"key_account": "Rede Esquinão",
+"cod_key_account": "1580",
+"vol_real": 1759.883,
+"fat_real": 63599.64,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Mega It As 1-4",
+"cod_key_account": "1088",
+"vol_real": 2700.432,
+"fat_real": 61590.38,
+"qtd_clientes": 2
+},
+{
+"key_account": "Atacadao Das Bebidas",
+"cod_key_account": "1595",
+"vol_real": 3636.831,
+"fat_real": 60771.47,
+"qtd_clientes": 1
+},
+{
+"key_account": "Superm Paeze",
+"cod_key_account": "1143",
+"vol_real": 3130.641,
+"fat_real": 60703.95,
+"qtd_clientes": 3
+},
+{
+"key_account": "Super Moura",
+"cod_key_account": "1074",
+"vol_real": 3227.464,
+"fat_real": 60371.03,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Bom Dia",
+"cod_key_account": "1175",
+"vol_real": 1816.768,
+"fat_real": 60350.85,
+"qtd_clientes": 2
+},
+{
+"key_account": "Ebasico",
+"cod_key_account": "1835",
+"vol_real": 4212.085,
+"fat_real": 60089.29,
+"qtd_clientes": 1
+},
+{
+"key_account": "Supermercado Damasco",
+"cod_key_account": "1099",
+"vol_real": 1751.085,
+"fat_real": 58803.69,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Silva",
+"cod_key_account": "1564",
+"vol_real": 2597.97,
+"fat_real": 58325.83,
+"qtd_clientes": 1
+},
+{
+"key_account": "Supermercado Do Povo",
+"cod_key_account": "1852",
+"vol_real": 2883.848,
+"fat_real": 57433.76,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Complem",
+"cod_key_account": "1152",
+"vol_real": 2353.918,
+"fat_real": 56222.58,
+"qtd_clientes": 5
+},
+{
+"key_account": "Cerveja E Cia",
+"cod_key_account": "1823",
+"vol_real": 2105.885,
+"fat_real": 55617.78,
+"qtd_clientes": 1
+},
+{
+"key_account": "Mini Box",
+"cod_key_account": "1204",
+"vol_real": 1513.254,
+"fat_real": 55300.02,
+"qtd_clientes": 3
+},
+{
+"key_account": "Super Nota 10",
+"cod_key_account": "1022",
+"vol_real": 3149.977,
+"fat_real": 54712.4,
+"qtd_clientes": 3
+},
+{
+"key_account": "Supermercado Comperfrutas",
+"cod_key_account": "1849",
+"vol_real": 1328.681,
+"fat_real": 53849.87,
+"qtd_clientes": 1
+},
+{
+"key_account": "Bon Atacarejo",
+"cod_key_account": "1095",
+"vol_real": 1222.241,
+"fat_real": 53716.74,
+"qtd_clientes": 1
+},
+{
+"key_account": "Livre Atacadista",
+"cod_key_account": "1243",
+"vol_real": 6643.213,
+"fat_real": 53093.33,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Freitas",
+"cod_key_account": "1250",
+"vol_real": 6735.697,
+"fat_real": 51571.6,
+"qtd_clientes": 1
+},
+{
+"key_account": "Baratão Atacado - Neut.",
+"cod_key_account": "1040",
+"vol_real": 2696.882,
+"fat_real": 50604.73,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Buso",
+"cod_key_account": "1851",
+"vol_real": 2468.412,
+"fat_real": 50596.49,
+"qtd_clientes": 1
+},
+{
+"key_account": "Celeiro Atacadista",
+"cod_key_account": "1236",
+"vol_real": 3424.652,
+"fat_real": 50163.3,
+"qtd_clientes": 1
+},
+{
+"key_account": "Gran Sapore",
+"cod_key_account": "291",
+"vol_real": 1606.249,
+"fat_real": 49692.55,
+"qtd_clientes": 5
+},
+{
+"key_account": "Saboroso Alimentos",
+"cod_key_account": "1854",
+"vol_real": 584.978,
+"fat_real": 49525.5,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Alvorada To",
+"cod_key_account": "1003",
+"vol_real": 2995.524,
+"fat_real": 49524.44,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Alternativa",
+"cod_key_account": "1246",
+"vol_real": 7511.899,
+"fat_real": 49291.77,
+"qtd_clientes": 1
+},
+{
+"key_account": "Select (Shell)",
+"cod_key_account": "141",
+"vol_real": 2755.273,
+"fat_real": 48043.86,
+"qtd_clientes": 11
+},
+{
+"key_account": "Rede M & A Alimentos",
+"cod_key_account": "1082",
+"vol_real": 2397.493,
+"fat_real": 48005.16,
+"qtd_clientes": 3
+},
+{
+"key_account": "Oppa Pratico",
+"cod_key_account": "1207",
+"vol_real": 2113.741,
+"fat_real": 47421.16,
+"qtd_clientes": 3
+},
+{
+"key_account": "Super Mineiro Sl",
+"cod_key_account": "1163",
+"vol_real": 2162.994,
+"fat_real": 47248.46,
+"qtd_clientes": 2
+},
+{
+"key_account": "Dist De Bebidas S Jorge - Neut",
+"cod_key_account": "1052",
+"vol_real": 2946.533,
+"fat_real": 46964.87,
+"qtd_clientes": 1
+},
+{
+"key_account": "Nelore Supermercado",
+"cod_key_account": "1091",
+"vol_real": 1503.161,
+"fat_real": 46584.09,
+"qtd_clientes": 2
+},
+{
+"key_account": "Sodexo - Refeicao Industrial",
+"cod_key_account": "123",
+"vol_real": 733.876,
+"fat_real": 45332.32,
+"qtd_clientes": 2
+},
+{
+"key_account": "Qg - Pasteis",
+"cod_key_account": "1100",
+"vol_real": 1322.176,
+"fat_real": 43811.26,
+"qtd_clientes": 16
+},
+{
+"key_account": "Super Mega Brasil",
+"cod_key_account": "1138",
+"vol_real": 2604.816,
+"fat_real": 43717.65,
+"qtd_clientes": 5
+},
+{
+"key_account": "Br Mania (Petrobras)",
+"cod_key_account": "12",
+"vol_real": 1452.099,
+"fat_real": 43407.82,
+"qtd_clientes": 10
+},
+{
+"key_account": "Forte Atacarejo",
+"cod_key_account": "1584",
+"vol_real": 1696.085,
+"fat_real": 43243.19,
+"qtd_clientes": 4
+},
+{
+"key_account": "Garotinho Atacadao",
+"cod_key_account": "1263",
+"vol_real": 2055.08,
+"fat_real": 43052.58,
+"qtd_clientes": 2
+},
+{
+"key_account": "Barsa Beer",
+"cod_key_account": "1233",
+"vol_real": 3180.055,
+"fat_real": 42896.99,
+"qtd_clientes": 1
+},
+{
+"key_account": "Comercial Leblon",
+"cod_key_account": "1847",
+"vol_real": 5525.62,
+"fat_real": 42507.6,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Padrão",
+"cod_key_account": "1020",
+"vol_real": 1130.26,
+"fat_real": 40297.61,
+"qtd_clientes": 2
+},
+{
+"key_account": "Casa De Carne M.M.",
+"cod_key_account": "1148",
+"vol_real": 1553.159,
+"fat_real": 40168.09,
+"qtd_clientes": 7
+},
+{
+"key_account": "Super Nova Jerusalém",
+"cod_key_account": "1007",
+"vol_real": 2613.786,
+"fat_real": 39687.74,
+"qtd_clientes": 4
+},
+{
+"key_account": "Super Vieira",
+"cod_key_account": "1070",
+"vol_real": 1689.716,
+"fat_real": 39372.18,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Master",
+"cod_key_account": "1838",
+"vol_real": 2244.81,
+"fat_real": 38462.41,
+"qtd_clientes": 1
+},
+{
+"key_account": "Atacadao Santa Rita - Neut.",
+"cod_key_account": "1041",
+"vol_real": 4830.573,
+"fat_real": 37994.43,
+"qtd_clientes": 2
+},
+{
+"key_account": "Merca Frutas",
+"cod_key_account": "1837",
+"vol_real": 578.538,
+"fat_real": 37727.62,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Brasil",
+"cod_key_account": "1123",
+"vol_real": 1440.826,
+"fat_real": 37131.02,
+"qtd_clientes": 3
+},
+{
+"key_account": "Cinemais",
+"cod_key_account": "348",
+"vol_real": 1333.81,
+"fat_real": 36821.79,
+"qtd_clientes": 4
+},
+{
+"key_account": "Hiper Merc Ceu Azul",
+"cod_key_account": "1831",
+"vol_real": 1034.139,
+"fat_real": 36290.11,
+"qtd_clientes": 1
+},
+{
+"key_account": "Max Atacadista",
+"cod_key_account": "1224",
+"vol_real": 860.581,
+"fat_real": 35373.13,
+"qtd_clientes": 6
+},
+{
+"key_account": "Super Gregório Gyn",
+"cod_key_account": "1225",
+"vol_real": 1194.126,
+"fat_real": 34397.58,
+"qtd_clientes": 2
+},
+{
+"key_account": "Posto Das Bebidas",
+"cod_key_account": "1191",
+"vol_real": 4677.445,
+"fat_real": 33987.09,
+"qtd_clientes": 1
+},
+{
+"key_account": "Coco Bambu",
+"cod_key_account": "1136",
+"vol_real": 524.027,
+"fat_real": 33431.07,
+"qtd_clientes": 2
+},
+{
+"key_account": "Portal Superm",
+"cod_key_account": "1599",
+"vol_real": 1136.708,
+"fat_real": 33293.59,
+"qtd_clientes": 1
+},
+{
+"key_account": "Rei Box Super",
+"cod_key_account": "1848",
+"vol_real": 1416.079,
+"fat_real": 32683.77,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Lar Feliz",
+"cod_key_account": "1009",
+"vol_real": 1479.852,
+"fat_real": 32546.71,
+"qtd_clientes": 3
+},
+{
+"key_account": "Super Gerlu",
+"cod_key_account": "1172",
+"vol_real": 747.688,
+"fat_real": 31984.1,
+"qtd_clientes": 4
+},
+{
+"key_account": "Superm Pérola",
+"cod_key_account": "1130",
+"vol_real": 2185.521,
+"fat_real": 31479.86,
+"qtd_clientes": 3
+},
+{
+"key_account": "Comercial Primavera",
+"cod_key_account": "1816",
+"vol_real": 911.999,
+"fat_real": 31478.62,
+"qtd_clientes": 1
+},
+{
+"key_account": "Sena Super",
+"cod_key_account": "1829",
+"vol_real": 1426.598,
+"fat_real": 31197.55,
+"qtd_clientes": 1
+},
+{
+"key_account": "B Mais Hipermecados",
+"cod_key_account": "1006",
+"vol_real": 1309.048,
+"fat_real": 31105.99,
+"qtd_clientes": 2
+},
+{
+"key_account": "Movie.Com",
+"cod_key_account": "370",
+"vol_real": 1158.475,
+"fat_real": 30335.43,
+"qtd_clientes": 1
+},
+{
+"key_account": "Supermercado Araguaia",
+"cod_key_account": "1264",
+"vol_real": 1219.922,
+"fat_real": 30146.11,
+"qtd_clientes": 5
+},
+{
+"key_account": "Supermercado Rodrigues",
+"cod_key_account": "1084",
+"vol_real": 1118.871,
+"fat_real": 29399.41,
+"qtd_clientes": 4
+},
+{
+"key_account": "Pega Bem Merc E Dist",
+"cod_key_account": "1594",
+"vol_real": 863.644,
+"fat_real": 29249.88,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Sul",
+"cod_key_account": "1078",
+"vol_real": 1254.781,
+"fat_real": 28031.21,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Nunes Mo",
+"cod_key_account": "1146",
+"vol_real": 1131.679,
+"fat_real": 25742.24,
+"qtd_clientes": 4
+},
+{
+"key_account": "Adventure Bebidas",
+"cod_key_account": "1186",
+"vol_real": 977.448,
+"fat_real": 23973.49,
+"qtd_clientes": 1
+},
+{
+"key_account": "Supermercado Ld",
+"cod_key_account": "1187",
+"vol_real": 2458.942,
+"fat_real": 23160.31,
+"qtd_clientes": 1
+},
+{
+"key_account": "União Super Ap.",
+"cod_key_account": "1096",
+"vol_real": 1028.794,
+"fat_real": 23118.37,
+"qtd_clientes": 2
+},
+{
+"key_account": "Ponto Frios",
+"cod_key_account": "1001",
+"vol_real": 861.9,
+"fat_real": 22329.26,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Sb Big",
+"cod_key_account": "1121",
+"vol_real": 1388.2,
+"fat_real": 20977.3,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Economico Quirinopolis",
+"cod_key_account": "1248",
+"vol_real": 579.785,
+"fat_real": 20826.16,
+"qtd_clientes": 1
+},
+{
+"key_account": "Lasa - Lojas Americanas",
+"cod_key_account": "310",
+"vol_real": 404.31,
+"fat_real": 20295.54,
+"qtd_clientes": 12
+},
+{
+"key_account": "Beto Gyn",
+"cod_key_account": "1098",
+"vol_real": 1043.761,
+"fat_real": 20277.54,
+"qtd_clientes": 4
+},
+{
+"key_account": "Supermercado Vitória - Neut.",
+"cod_key_account": "1026",
+"vol_real": 1068.325,
+"fat_real": 19528.53,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Economico - Neut.",
+"cod_key_account": "1023",
+"vol_real": 1992.164,
+"fat_real": 19143.95,
+"qtd_clientes": 1
+},
+{
+"key_account": "Atacarejo Super Hnk - Neut.",
+"cod_key_account": "1044",
+"vol_real": 2260.357,
+"fat_real": 19016.9,
+"qtd_clientes": 1
+},
+{
+"key_account": "Di Casa Supermercado",
+"cod_key_account": "1836",
+"vol_real": 1280.022,
+"fat_real": 19011.69,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Avila",
+"cod_key_account": "1817",
+"vol_real": 1582.926,
+"fat_real": 18627.48,
+"qtd_clientes": 1
+},
+{
+"key_account": "Vitamedic",
+"cod_key_account": "1102",
+"vol_real": 772.778,
+"fat_real": 18295.72,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Santa Fé",
+"cod_key_account": "1229",
+"vol_real": 685.245,
+"fat_real": 17744.72,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Real",
+"cod_key_account": "1853",
+"vol_real": 1356.989,
+"fat_real": 17104.71,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Léo",
+"cod_key_account": "1208",
+"vol_real": 394.921,
+"fat_real": 16528.55,
+"qtd_clientes": 4
+},
+{
+"key_account": "Mercearia Lima",
+"cod_key_account": "1846",
+"vol_real": 406.812,
+"fat_real": 15057.02,
+"qtd_clientes": 1
+},
+{
+"key_account": "Drg Pague Menos",
+"cod_key_account": "274",
+"vol_real": 682.263,
+"fat_real": 14913.42,
+"qtd_clientes": 11
+},
+{
+"key_account": "Super Jaguar",
+"cod_key_account": "1066",
+"vol_real": 496.389,
+"fat_real": 13786.29,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Sul Bebidas",
+"cod_key_account": "1254",
+"vol_real": 659.722,
+"fat_real": 13598.88,
+"qtd_clientes": 1
+},
+{
+"key_account": "Am/Pm (Ipiranga)",
+"cod_key_account": "11",
+"vol_real": 499.608,
+"fat_real": 13181.07,
+"qtd_clientes": 3
+},
+{
+"key_account": "Sup Novo Brazão",
+"cod_key_account": "1259",
+"vol_real": 640.551,
+"fat_real": 13113.21,
+"qtd_clientes": 3
+},
+{
+"key_account": "Super Mais Você",
+"cod_key_account": "1021",
+"vol_real": 461.809,
+"fat_real": 12868.97,
+"qtd_clientes": 1
+},
+{
+"key_account": "Supermercado Para Todos",
+"cod_key_account": "1094",
+"vol_real": 521.189,
+"fat_real": 11909.95,
+"qtd_clientes": 1
+},
+{
+"key_account": "W Premium",
+"cod_key_account": "1857",
+"vol_real": 303.877,
+"fat_real": 11434.15,
+"qtd_clientes": 2
+},
+{
+"key_account": "Tarantella",
+"cod_key_account": "1140",
+"vol_real": 186.313,
+"fat_real": 10497.53,
+"qtd_clientes": 3
+},
+{
+"key_account": "Supermercado Sickeira",
+"cod_key_account": "1832",
+"vol_real": 967.848,
+"fat_real": 10448.16,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Brasil Lopes",
+"cod_key_account": "1241",
+"vol_real": 1925.702,
+"fat_real": 9789.05,
+"qtd_clientes": 1
+},
+{
+"key_account": "Mercearia Conveniencia Do Boca",
+"cod_key_account": "1844",
+"vol_real": 342.401,
+"fat_real": 9623.53,
+"qtd_clientes": 1
+},
+{
+"key_account": "Panif Modelo",
+"cod_key_account": "1161",
+"vol_real": 279.483,
+"fat_real": 8609.06,
+"qtd_clientes": 2
+},
+{
+"key_account": "Super Sol Nascente",
+"cod_key_account": "1253",
+"vol_real": 266.288,
+"fat_real": 7408.08,
+"qtd_clientes": 1
+},
+{
+"key_account": "Precito Atacado",
+"cod_key_account": "1000",
+"vol_real": 187.797,
+"fat_real": 7398.15,
+"qtd_clientes": 1
+},
+{
+"key_account": "Supermercado Paulino",
+"cod_key_account": "1182",
+"vol_real": 313.156,
+"fat_real": 7278.05,
+"qtd_clientes": 3
+},
+{
+"key_account": "Super Bom Preço",
+"cod_key_account": "1086",
+"vol_real": 74.13,
+"fat_real": 6993.5,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Silva Superm.  - Neut.",
+"cod_key_account": "1057",
+"vol_real": 325.625,
+"fat_real": 6371.65,
+"qtd_clientes": 1
+},
+{
+"key_account": "Cial Tropical",
+"cod_key_account": "1587",
+"vol_real": 126.97,
+"fat_real": 6338.31,
+"qtd_clientes": 1
+},
+{
+"key_account": "Cerrado",
+"cod_key_account": "1169",
+"vol_real": 220.875,
+"fat_real": 6299.23,
+"qtd_clientes": 1
+},
+{
+"key_account": "Morenta Supermercado",
+"cod_key_account": "1830",
+"vol_real": 720.397,
+"fat_real": 6101.32,
+"qtd_clientes": 1
+},
+{
+"key_account": "Lug'S",
+"cod_key_account": "438",
+"vol_real": 205.605,
+"fat_real": 5993.29,
+"qtd_clientes": 2
+},
+{
+"key_account": "Dufry",
+"cod_key_account": "409",
+"vol_real": 878.147,
+"fat_real": 5840.48,
+"qtd_clientes": 2
+},
+{
+"key_account": "Flash Smash",
+"cod_key_account": "1076",
+"vol_real": 126.011,
+"fat_real": 5429.37,
+"qtd_clientes": 3
+},
+{
+"key_account": "Agrovale",
+"cod_key_account": "1574",
+"vol_real": 972.198,
+"fat_real": 5278.25,
+"qtd_clientes": 1
+},
+{
+"key_account": "Casa Nostra Alimentos Ltda",
+"cod_key_account": "1016",
+"vol_real": 242.788,
+"fat_real": 5273.72,
+"qtd_clientes": 1
+},
+{
+"key_account": "Ediney Dist De Bebid - Neut.",
+"cod_key_account": "1027",
+"vol_real": 1055.103,
+"fat_real": 5169.12,
+"qtd_clientes": 1
+},
+{
+"key_account": "Cerrado Distribuicao - Neut.",
+"cod_key_account": "1051",
+"vol_real": 73.56,
+"fat_real": 4593.47,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Goiás",
+"cod_key_account": "1015",
+"vol_real": 96.105,
+"fat_real": 3912.96,
+"qtd_clientes": 2
+},
+{
+"key_account": "Copel Agropecuária",
+"cod_key_account": "1002",
+"vol_real": 90.351,
+"fat_real": 3706.79,
+"qtd_clientes": 3
+},
+{
+"key_account": "Marajo Sl",
+"cod_key_account": "1244",
+"vol_real": 190.212,
+"fat_real": 3311.98,
+"qtd_clientes": 1
+},
+{
+"key_account": "Nossa Super",
+"cod_key_account": "1818",
+"vol_real": 181.217,
+"fat_real": 3015.78,
+"qtd_clientes": 1
+},
+{
+"key_account": "Max Sushi",
+"cod_key_account": "1101",
+"vol_real": 100.18,
+"fat_real": 2831.66,
+"qtd_clientes": 1
+},
+{
+"key_account": "Entreposto (Ale/Sat)",
+"cod_key_account": "296",
+"vol_real": 63.915,
+"fat_real": 2091.04,
+"qtd_clientes": 1
+},
+{
+"key_account": "Sul Bebidas Conveniências",
+"cod_key_account": "1077",
+"vol_real": 338.114,
+"fat_real": 1867.78,
+"qtd_clientes": 1
+},
+{
+"key_account": "Dominos Pizza",
+"cod_key_account": "83",
+"vol_real": 93.013,
+"fat_real": 1853.04,
+"qtd_clientes": 1
+},
+{
+"key_account": "Super Morais",
+"cod_key_account": "1578",
+"vol_real": 37.98,
+"fat_real": 1488.13,
+"qtd_clientes": 1
+},
+{
+"key_account": "Chopp Time",
+"cod_key_account": "1195",
+"vol_real": 13.685,
+"fat_real": 938.22,
+"qtd_clientes": 1
+},
+{
+"key_account": "Conveniencia Atlanta",
+"cod_key_account": "1828",
+"vol_real": 3.918,
+"fat_real": 795.78,
+"qtd_clientes": 1
+},
+{
+"key_account": "Supermercado 20v",
+"cod_key_account": "1256",
+"vol_real": 10.717,
+"fat_real": 793.23,
+"qtd_clientes": 1
+},
+{
+"key_account": "Facil Atacarejo - Neut.",
+"cod_key_account": "1049",
+"vol_real": 12.376,
+"fat_real": 465.75,
+"qtd_clientes": 1
+},
+{
+"key_account": "Atw Delivery",
+"cod_key_account": "1369",
+"vol_real": 3.424,
+"fat_real": 254.99,
+"qtd_clientes": 1
+}
+]
