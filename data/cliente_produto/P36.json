@@ -1,0 +1,9098 @@
+[
+{
+"cod_cliente": "1012597",
+"produto": "Cervejas",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1012597",
+"produto": "Cervejas Premium",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1012597",
+"produto": "Sol Premiun",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1012597",
+"produto": "Refrigerantes",
+"vol_real": 8.872,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1012597",
+"produto": "Refrigerantes Individual",
+"vol_real": 2.531,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1012597",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1012597",
+"produto": "Sabores Tt",
+"vol_real": 2.531,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1012597",
+"produto": "Del Valle Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1012597",
+"produto": "Dv Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1012597",
+"produto": "Dv Frut Ms",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1012597",
+"produto": "Kapo",
+"vol_real": 0.42,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1012597",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1012597",
+"produto": "Still",
+"vol_real": 2.535,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1012597",
+"produto": "Sucos",
+"vol_real": 2.005,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1015797",
+"produto": "Cctm 2l Pet",
+"vol_real": 16.907,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1015797",
+"produto": "Kuat Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1015797",
+"produto": "Kuat Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1015797",
+"produto": "Refri Sabores Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1015797",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1015797",
+"produto": "Refri Zero",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1015797",
+"produto": "Refrigerantes",
+"vol_real": 28.785,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1015797",
+"produto": "Refrigerantes Individual",
+"vol_real": 2.368,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1015797",
+"produto": "Sabores Tt",
+"vol_real": 8.877,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1015797",
+"produto": "Sprite",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1015797",
+"produto": "Del Valle Frut",
+"vol_real": 0.475,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1015797",
+"produto": "Dv Frut",
+"vol_real": 0.475,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1015797",
+"produto": "Kapo",
+"vol_real": 2.52,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1015797",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1015797",
+"produto": "Still",
+"vol_real": 3.526,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1015797",
+"produto": "Sucos",
+"vol_real": 2.995,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027180",
+"produto": "Cctm 2l Pet",
+"vol_real": 14.794,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027180",
+"produto": "Refri Zero",
+"vol_real": 5.706,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027180",
+"produto": "Refrigerantes",
+"vol_real": 47.119,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027180",
+"produto": "Refrigerantes Individual",
+"vol_real": 9.078,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027180",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 19.021,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027180",
+"produto": "Sabores Tt",
+"vol_real": 3.773,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027180",
+"produto": "Sprite",
+"vol_real": 1.078,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027180",
+"produto": "Del Valle Frut",
+"vol_real": 1.057,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027180",
+"produto": "Dv Frut",
+"vol_real": 1.057,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027180",
+"produto": "Dv Frut Ms",
+"vol_real": 1.057,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027180",
+"produto": "Kapo",
+"vol_real": 1.26,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027180",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027180",
+"produto": "Still",
+"vol_real": 2.847,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027180",
+"produto": "Sucos",
+"vol_real": 2.317,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027180",
+"produto": "Agua Mineral",
+"vol_real": 6.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Cervejas",
+"vol_real": 0.042,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.9,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Destilados",
+"vol_real": 0.9,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Dreher",
+"vol_real": 0.9,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Cctm 2l Pet",
+"vol_real": 59.175,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Kuat Zero",
+"vol_real": 2.483,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Kuat Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Refri Sabores Zero",
+"vol_real": 8.823,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 8.454,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Refri Zero",
+"vol_real": 23.343,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Refrigerantes",
+"vol_real": 178.972,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Refrigerantes Individual",
+"vol_real": 10.491,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Sabores Tt",
+"vol_real": 87.757,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Sprite",
+"vol_real": 8.823,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Del Valle Frut",
+"vol_real": 2.061,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Dv Frut",
+"vol_real": 2.061,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Dv Frut Ms",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Dv Néctar",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Still",
+"vol_real": 3.816,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1027536",
+"produto": "Sucos",
+"vol_real": 3.286,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1028324",
+"produto": "Cctm 2l Pet",
+"vol_real": 35.928,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1028324",
+"produto": "Refri Sabores Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1028324",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1028324",
+"produto": "Refri Zero",
+"vol_real": 7.82,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1028324",
+"produto": "Refrigerantes",
+"vol_real": 73.652,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1028324",
+"produto": "Refrigerantes Individual",
+"vol_real": 4.966,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1028324",
+"produto": "Sabores Tt",
+"vol_real": 23.987,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1028324",
+"produto": "Sprite",
+"vol_real": 7.08,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1028324",
+"produto": "Dv Néctar",
+"vol_real": 1.057,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1028324",
+"produto": "Kapo",
+"vol_real": 2.52,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1028324",
+"produto": "Monster",
+"vol_real": 2.499,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1028324",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1028324",
+"produto": "Still",
+"vol_real": 6.606,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1028324",
+"produto": "Sucos",
+"vol_real": 3.577,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1028324",
+"produto": "Agua Mineral",
+"vol_real": 24.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1077265",
+"produto": "Cctm 2l Pet",
+"vol_real": 10.567,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1077265",
+"produto": "Refri Zero",
+"vol_real": 9.933,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1077265",
+"produto": "Refrigerantes",
+"vol_real": 27.157,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1077265",
+"produto": "Refrigerantes Individual",
+"vol_real": 4.967,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1077265",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1077265",
+"produto": "Sabores Tt",
+"vol_real": 0.74,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1077265",
+"produto": "Sprite",
+"vol_real": 0.37,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1077265",
+"produto": "Del Valle Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1077265",
+"produto": "Dv Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1077265",
+"produto": "Dv Frut Ms",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1077265",
+"produto": "Monster",
+"vol_real": 0.5,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1077265",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1077265",
+"produto": "Still",
+"vol_real": 2.615,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1077265",
+"produto": "Sucos",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1077265",
+"produto": "Agua Mineral",
+"vol_real": 6.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1079099",
+"produto": "Cctm 2l Pet",
+"vol_real": 95.103,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1079099",
+"produto": "Refri Zero",
+"vol_real": 62.874,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1079099",
+"produto": "Refrigerantes",
+"vol_real": 141.387,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1079099",
+"produto": "Refrigerantes Individual",
+"vol_real": 23.037,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1079099",
+"produto": "Sabores Tt",
+"vol_real": 26.206,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1079099",
+"produto": "Sprite",
+"vol_real": 4.966,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1082923",
+"produto": "Cctm 2l Pet",
+"vol_real": 10.567,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1082923",
+"produto": "Refrigerantes",
+"vol_real": 13.336,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1082923",
+"produto": "Refrigerantes Individual",
+"vol_real": 2.769,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1084120",
+"produto": "Cervejas",
+"vol_real": 0.353,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1084120",
+"produto": "Cervejas 600ml Retornavel",
+"vol_real": 0.144,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1084120",
+"produto": "Cervejas Premium",
+"vol_real": 0.041,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1084120",
+"produto": "Eisenbahn",
+"vol_real": 0.021,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1084120",
+"produto": "Sol Premiun",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1084120",
+"produto": "Cctm 2l Pet",
+"vol_real": 42.268,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1084120",
+"produto": "Refri Zero",
+"vol_real": 2.959,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1084120",
+"produto": "Refrigerantes",
+"vol_real": 71.528,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1084120",
+"produto": "Refrigerantes Individual",
+"vol_real": 18.694,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1084120",
+"produto": "Sabores Tt",
+"vol_real": 6.71,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1084120",
+"produto": "Sprite",
+"vol_real": 2.483,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1084120",
+"produto": "Kapo",
+"vol_real": 3.36,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1084120",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1084120",
+"produto": "Still",
+"vol_real": 3.89,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1084120",
+"produto": "Sucos",
+"vol_real": 3.36,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1084120",
+"produto": "Agua Mineral",
+"vol_real": 60.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Candies",
+"vol_real": 0.308,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Dest+Art+Cnd",
+"vol_real": 1.306,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Fini",
+"vol_real": 0.18,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Perfetti Tt",
+"vol_real": 0.128,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Cervejas",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Cervejas Premium",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Sol Premiun",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Aperitivo",
+"vol_real": 0.998,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Campari",
+"vol_real": 0.998,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Destilados",
+"vol_real": 0.998,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Cctm 2l Pet",
+"vol_real": 48.608,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Kuat Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Kuat Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Refri Sabores Zero",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Refri Zero",
+"vol_real": 16.907,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Refrigerantes",
+"vol_real": 101.19,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Refrigerantes Individual",
+"vol_real": 5.03,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 12.68,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Sabores Tt",
+"vol_real": 29.693,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Sprite",
+"vol_real": 4.966,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Del Valle Frut",
+"vol_real": 4.755,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Dv Frut",
+"vol_real": 4.755,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Dv Frut Ms",
+"vol_real": 4.755,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Dv Néctar",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Kapo",
+"vol_real": 0.84,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Monster",
+"vol_real": 2.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Still",
+"vol_real": 12.352,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Sucos",
+"vol_real": 9.822,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1087134",
+"produto": "Agua Mineral",
+"vol_real": 96.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1089905",
+"produto": "Cctm 2l Pet",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1089905",
+"produto": "Refrigerantes",
+"vol_real": 3.593,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1089905",
+"produto": "Refrigerantes Individual",
+"vol_real": 1.479,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1089905",
+"produto": "Kapo",
+"vol_real": 1.26,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1089905",
+"produto": "Monster",
+"vol_real": 0.5,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1089905",
+"produto": "Still",
+"vol_real": 1.76,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1089905",
+"produto": "Sucos",
+"vol_real": 1.26,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1093476",
+"produto": "Artd Ko",
+"vol_real": 1.614,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1093476",
+"produto": "Dest+Art+Cnd",
+"vol_real": 2.362,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1093476",
+"produto": "Aperitivo",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1093476",
+"produto": "Campari",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1093476",
+"produto": "Destilados",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1093476",
+"produto": "Cctm 2l Pet",
+"vol_real": 12.68,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1093476",
+"produto": "Refrigerantes",
+"vol_real": 18.017,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1093476",
+"produto": "Refrigerantes Individual",
+"vol_real": 1.11,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1093476",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1093476",
+"produto": "Sabores Tt",
+"vol_real": 0.37,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1102287",
+"produto": "Refrigerantes",
+"vol_real": 3.794,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1102287",
+"produto": "Refrigerantes Individual",
+"vol_real": 3.794,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1102287",
+"produto": "Sabores Tt",
+"vol_real": 2.589,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1102287",
+"produto": "Sprite",
+"vol_real": 0.37,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1102287",
+"produto": "Dv Néctar",
+"vol_real": 1.553,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1102287",
+"produto": "Kapo",
+"vol_real": 0.84,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1102287",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1102287",
+"produto": "Still",
+"vol_real": 2.923,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1102287",
+"produto": "Sucos",
+"vol_real": 2.393,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1103333",
+"produto": "Cctm 2l Pet",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1103333",
+"produto": "Refrigerantes",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1103333",
+"produto": "Monster",
+"vol_real": 1.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1103333",
+"produto": "Still",
+"vol_real": 1.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1103811",
+"produto": "Artd Ko",
+"vol_real": 1.614,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1103811",
+"produto": "Dest+Art+Cnd",
+"vol_real": 2.514,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1103811",
+"produto": "Cervejas",
+"vol_real": 0.312,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1103811",
+"produto": "Cervejas 600ml Retornavel",
+"vol_real": 0.144,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1103811",
+"produto": "Destilados",
+"vol_real": 0.9,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1103811",
+"produto": "Dreher",
+"vol_real": 0.9,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1103811",
+"produto": "Cctm 2l Pet",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1103811",
+"produto": "Refrigerantes",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1105025",
+"produto": "Cervejas",
+"vol_real": 0.21,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1105025",
+"produto": "Cctm 2l Pet",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1105025",
+"produto": "Refrigerantes",
+"vol_real": 9.613,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1105025",
+"produto": "Refrigerantes Individual",
+"vol_real": 1.16,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1105025",
+"produto": "Sabores Tt",
+"vol_real": 2.533,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1105025",
+"produto": "Agua Mineral",
+"vol_real": 6.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1115729",
+"produto": "Artd Ko",
+"vol_real": 0.0,
+"vol_online": 1.614
+},
+{
+"cod_cliente": "1115729",
+"produto": "Dest+Art+Cnd",
+"vol_real": 1.08,
+"vol_online": 3.24
+},
+{
+"cod_cliente": "1115729",
+"produto": "Candies",
+"vol_real": 0.18,
+"vol_online": 0.128
+},
+{
+"cod_cliente": "1115729",
+"produto": "Fini",
+"vol_real": 0.18,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115729",
+"produto": "Perfetti Tt",
+"vol_real": 0.0,
+"vol_online": 0.128
+},
+{
+"cod_cliente": "1115729",
+"produto": "Cervejas",
+"vol_real": 0.84,
+"vol_online": 0.461
+},
+{
+"cod_cliente": "1115729",
+"produto": "Cervejas Premium",
+"vol_real": 0.0,
+"vol_online": 0.041
+},
+{
+"cod_cliente": "1115729",
+"produto": "Eisenbahn",
+"vol_real": 0.0,
+"vol_online": 0.021
+},
+{
+"cod_cliente": "1115729",
+"produto": "Sol Premiun",
+"vol_real": 0.0,
+"vol_online": 0.02
+},
+{
+"cod_cliente": "1115729",
+"produto": "Aperitivo",
+"vol_real": 0.0,
+"vol_online": 1.498
+},
+{
+"cod_cliente": "1115729",
+"produto": "Aperol",
+"vol_real": 0.0,
+"vol_online": 0.75
+},
+{
+"cod_cliente": "1115729",
+"produto": "Campari",
+"vol_real": 0.0,
+"vol_online": 0.748
+},
+{
+"cod_cliente": "1115729",
+"produto": "Destilados",
+"vol_real": 0.9,
+"vol_online": 1.498
+},
+{
+"cod_cliente": "1115729",
+"produto": "Dreher",
+"vol_real": 0.9,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115729",
+"produto": "Cctm 2l Pet",
+"vol_real": 109.897,
+"vol_online": 211.34
+},
+{
+"cod_cliente": "1115729",
+"produto": "Kuat Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115729",
+"produto": "Kuat Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115729",
+"produto": "Refri Sabores Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115729",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115729",
+"produto": "Refri Zero",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115729",
+"produto": "Refrigerantes",
+"vol_real": 155.705,
+"vol_online": 304.33
+},
+{
+"cod_cliente": "1115729",
+"produto": "Refrigerantes Individual",
+"vol_real": 22.561,
+"vol_online": 29.588
+},
+{
+"cod_cliente": "1115729",
+"produto": "Sabores Tt",
+"vol_real": 28.901,
+"vol_online": 42.268
+},
+{
+"cod_cliente": "1115729",
+"produto": "Sprite",
+"vol_real": 2.483,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115729",
+"produto": "Del Valle Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115729",
+"produto": "Dv Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115729",
+"produto": "Dv Frut Ms",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115729",
+"produto": "Kapo",
+"vol_real": 0.42,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115729",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115729",
+"produto": "Still",
+"vol_real": 2.535,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115729",
+"produto": "Sucos",
+"vol_real": 2.005,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115752",
+"produto": "Artd Ko",
+"vol_real": 1.614,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115752",
+"produto": "Dest+Art+Cnd",
+"vol_real": 1.614,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115752",
+"produto": "Cctm 2l Pet",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115752",
+"produto": "Refri Zero",
+"vol_real": 1.057,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115752",
+"produto": "Refrigerantes",
+"vol_real": 4.597,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115752",
+"produto": "Refrigerantes Individual",
+"vol_real": 0.37,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115752",
+"produto": "Sabores Tt",
+"vol_real": 0.37,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115752",
+"produto": "Sprite",
+"vol_real": 0.37,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115752",
+"produto": "Kapo",
+"vol_real": 0.42,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115752",
+"produto": "Still",
+"vol_real": 0.42,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1115752",
+"produto": "Sucos",
+"vol_real": 0.42,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Candies",
+"vol_real": 0.18,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.928,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Fini",
+"vol_real": 0.18,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Aperitivo",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Campari",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Destilados",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Kuat Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Kuat Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Refri Sabores Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Refrigerantes",
+"vol_real": 8.454,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Sabores Tt",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Sprite",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Del Valle Frut",
+"vol_real": 1.057,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Dv Frut",
+"vol_real": 1.057,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Dv Frut Ms",
+"vol_real": 1.057,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Kapo",
+"vol_real": 0.42,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Powerade",
+"vol_real": 3.18,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Still",
+"vol_real": 4.657,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Sucos",
+"vol_real": 1.477,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1116862",
+"produto": "Agua Mineral",
+"vol_real": 12.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1118071",
+"produto": "Artd Ko",
+"vol_real": 1.614,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1118071",
+"produto": "Dest+Art+Cnd",
+"vol_real": 1.614,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1118071",
+"produto": "Cervejas",
+"vol_real": 0.021,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1118071",
+"produto": "Cervejas Premium",
+"vol_real": 0.021,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1118071",
+"produto": "Eisenbahn",
+"vol_real": 0.021,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1118071",
+"produto": "Cctm 2l Pet",
+"vol_real": 14.794,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1118071",
+"produto": "Refri Zero",
+"vol_real": 5.706,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1118071",
+"produto": "Refrigerantes",
+"vol_real": 33.022,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1118071",
+"produto": "Refrigerantes Individual",
+"vol_real": 14.002,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1118071",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1118071",
+"produto": "Sabores Tt",
+"vol_real": 1.109,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1118071",
+"produto": "Sprite",
+"vol_real": 0.37,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1118071",
+"produto": "Del Valle Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1118071",
+"produto": "Dv Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1118071",
+"produto": "Dv Frut Ms",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1118071",
+"produto": "Monster",
+"vol_real": 1.5,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1118071",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1118071",
+"produto": "Still",
+"vol_real": 3.615,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1118071",
+"produto": "Sucos",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1118071",
+"produto": "Agua Mineral",
+"vol_real": 60.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1119361",
+"produto": "Cctm 2l Pet",
+"vol_real": 0.0,
+"vol_online": 8.454
+},
+{
+"cod_cliente": "1119361",
+"produto": "Refri Zero",
+"vol_real": 0.0,
+"vol_online": 2.959
+},
+{
+"cod_cliente": "1119361",
+"produto": "Refrigerantes",
+"vol_real": 0.0,
+"vol_online": 20.595
+},
+{
+"cod_cliente": "1119361",
+"produto": "Refrigerantes Individual",
+"vol_real": 0.0,
+"vol_online": 12.142
+},
+{
+"cod_cliente": "1119361",
+"produto": "Sabores Tt",
+"vol_real": 0.0,
+"vol_online": 0.37
+},
+{
+"cod_cliente": "1119361",
+"produto": "Sprite",
+"vol_real": 0.0,
+"vol_online": 0.37
+},
+{
+"cod_cliente": "1119361",
+"produto": "Kapo",
+"vol_real": 0.0,
+"vol_online": 1.68
+},
+{
+"cod_cliente": "1119361",
+"produto": "Monster",
+"vol_real": 0.0,
+"vol_online": 1.499
+},
+{
+"cod_cliente": "1119361",
+"produto": "Powerade",
+"vol_real": 0.0,
+"vol_online": 0.53
+},
+{
+"cod_cliente": "1119361",
+"produto": "Still",
+"vol_real": 0.0,
+"vol_online": 3.709
+},
+{
+"cod_cliente": "1119361",
+"produto": "Sucos",
+"vol_real": 0.0,
+"vol_online": 1.68
+},
+{
+"cod_cliente": "1119361",
+"produto": "Agua Mineral",
+"vol_real": 0.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1120456",
+"produto": "Cervejas",
+"vol_real": 0.354,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1120456",
+"produto": "Cervejas 600ml Retornavel",
+"vol_real": 0.144,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1120456",
+"produto": "Cervejas Premium",
+"vol_real": 0.042,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1120456",
+"produto": "Sol Premiun",
+"vol_real": 0.042,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1120456",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.9,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1120456",
+"produto": "Destilados",
+"vol_real": 0.9,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1120456",
+"produto": "Dreher",
+"vol_real": 0.9,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1120456",
+"produto": "Cctm 2l Pet",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1120456",
+"produto": "Ks Tt",
+"vol_real": 2.452,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1120456",
+"produto": "Refrigerantes",
+"vol_real": 5.305,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1120456",
+"produto": "Refrigerantes Individual",
+"vol_real": 3.191,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1120456",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 2.452,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1120456",
+"produto": "Sabores Tt",
+"vol_real": 1.596,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1120456",
+"produto": "Sprite",
+"vol_real": 0.37,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1122943",
+"produto": "Cctm 2l Pet",
+"vol_real": 0.0,
+"vol_online": 12.68
+},
+{
+"cod_cliente": "1122943",
+"produto": "Refri Zero",
+"vol_real": 0.0,
+"vol_online": 2.113
+},
+{
+"cod_cliente": "1122943",
+"produto": "Refrigerantes",
+"vol_real": 0.0,
+"vol_online": 24.537
+},
+{
+"cod_cliente": "1122943",
+"produto": "Refrigerantes Individual",
+"vol_real": 0.0,
+"vol_online": 0.233
+},
+{
+"cod_cliente": "1122943",
+"produto": "Sabores Tt",
+"vol_real": 0.0,
+"vol_online": 8.454
+},
+{
+"cod_cliente": "1122943",
+"produto": "Monster",
+"vol_real": 0.0,
+"vol_online": 2.499
+},
+{
+"cod_cliente": "1122943",
+"produto": "Still",
+"vol_real": 0.0,
+"vol_online": 2.499
+},
+{
+"cod_cliente": "1122943",
+"produto": "Agua Mineral",
+"vol_real": 0.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1126083",
+"produto": "Ks Tt",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1126083",
+"produto": "Refri Zero",
+"vol_real": 2.166,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1126083",
+"produto": "Refrigerantes",
+"vol_real": 10.789,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1126083",
+"produto": "Refrigerantes Individual",
+"vol_real": 6.562,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1126083",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1126083",
+"produto": "Sabores Tt",
+"vol_real": 1.849,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1126083",
+"produto": "Sprite",
+"vol_real": 0.37,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1126083",
+"produto": "Del Valle Frut",
+"vol_real": 0.951,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1126083",
+"produto": "Dv Frut",
+"vol_real": 0.951,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1126083",
+"produto": "Dv Néctar",
+"vol_real": 0.612,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1126083",
+"produto": "Still",
+"vol_real": 1.563,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1126083",
+"produto": "Sucos",
+"vol_real": 1.563,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1126083",
+"produto": "Agua Mineral",
+"vol_real": 6.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Artd Ko",
+"vol_real": 1.614,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Dest+Art+Cnd",
+"vol_real": 5.242,
+"vol_online": 1.65
+},
+{
+"cod_cliente": "1134471",
+"produto": "Candies",
+"vol_real": 3.628,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Fini",
+"vol_real": 0.18,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Perfetti Tt",
+"vol_real": 3.448,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Cervejas",
+"vol_real": 0.02,
+"vol_online": 0.021
+},
+{
+"cod_cliente": "1134471",
+"produto": "Cervejas Premium",
+"vol_real": 0.02,
+"vol_online": 0.021
+},
+{
+"cod_cliente": "1134471",
+"produto": "Eisenbahn",
+"vol_real": 0.0,
+"vol_online": 0.021
+},
+{
+"cod_cliente": "1134471",
+"produto": "Sol Premiun",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Aperitivo",
+"vol_real": 0.0,
+"vol_online": 0.75
+},
+{
+"cod_cliente": "1134471",
+"produto": "Aperol",
+"vol_real": 0.0,
+"vol_online": 0.75
+},
+{
+"cod_cliente": "1134471",
+"produto": "Destilados",
+"vol_real": 0.0,
+"vol_online": 1.65
+},
+{
+"cod_cliente": "1134471",
+"produto": "Dreher",
+"vol_real": 0.0,
+"vol_online": 0.9
+},
+{
+"cod_cliente": "1134471",
+"produto": "Cctm 2l Pet",
+"vol_real": 63.402,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Kuat Zero",
+"vol_real": 2.483,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Kuat Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Refri Sabores Zero",
+"vol_real": 6.71,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Refri Zero",
+"vol_real": 71.591,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Refrigerantes",
+"vol_real": 141.218,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Refrigerantes Individual",
+"vol_real": 10.187,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Sabores Tt",
+"vol_real": 60.338,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Sprite",
+"vol_real": 6.71,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Del Valle Frut",
+"vol_real": 9.405,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Dv Frut",
+"vol_real": 9.405,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Dv Frut Ms",
+"vol_real": 8.454,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Dv Néctar",
+"vol_real": 19.031,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Kapo",
+"vol_real": 8.828,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Monster",
+"vol_real": 2.499,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Powerade",
+"vol_real": 3.71,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Still",
+"vol_real": 43.474,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Sucos",
+"vol_real": 37.264,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1134471",
+"produto": "Agua Mineral",
+"vol_real": 120.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1135523",
+"produto": "Aperitivo",
+"vol_real": 1.996,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1135523",
+"produto": "Campari",
+"vol_real": 1.996,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1135523",
+"produto": "Dest+Art+Cnd",
+"vol_real": 2.896,
+"vol_online": 2.7
+},
+{
+"cod_cliente": "1135523",
+"produto": "Destilados",
+"vol_real": 2.896,
+"vol_online": 2.7
+},
+{
+"cod_cliente": "1135523",
+"produto": "Dreher",
+"vol_real": 0.9,
+"vol_online": 2.7
+},
+{
+"cod_cliente": "1135523",
+"produto": "Ks Tt",
+"vol_real": 2.452,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1135523",
+"produto": "Refrigerantes",
+"vol_real": 2.452,
+"vol_online": 0.74
+},
+{
+"cod_cliente": "1135523",
+"produto": "Refrigerantes Individual",
+"vol_real": 2.452,
+"vol_online": 0.74
+},
+{
+"cod_cliente": "1135523",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 2.452,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1135523",
+"produto": "Monster",
+"vol_real": 0.0,
+"vol_online": 0.5
+},
+{
+"cod_cliente": "1135523",
+"produto": "Still",
+"vol_real": 0.0,
+"vol_online": 0.5
+},
+{
+"cod_cliente": "1136705",
+"produto": "Ks Tt",
+"vol_real": 3.678,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1136705",
+"produto": "Refri Zero",
+"vol_real": 3.339,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1136705",
+"produto": "Refrigerantes",
+"vol_real": 11.128,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1136705",
+"produto": "Refrigerantes Individual",
+"vol_real": 4.788,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1136705",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 3.678,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1136705",
+"produto": "Sabores Tt",
+"vol_real": 2.336,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1136705",
+"produto": "Agua Mineral",
+"vol_real": 36.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1140120",
+"produto": "Agua Mineral",
+"vol_real": 0.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1140637",
+"produto": "Cctm 2l Pet",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1140637",
+"produto": "Ks Tt",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1140637",
+"produto": "Refri Zero",
+"vol_real": 2.008,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1140637",
+"produto": "Refrigerantes",
+"vol_real": 19.401,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1140637",
+"produto": "Refrigerantes Individual",
+"vol_real": 6.721,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1140637",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 3.339,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1141217",
+"produto": "Candies",
+"vol_real": 0.0,
+"vol_online": 0.128
+},
+{
+"cod_cliente": "1141217",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.0,
+"vol_online": 0.128
+},
+{
+"cod_cliente": "1141217",
+"produto": "Perfetti Tt",
+"vol_real": 0.0,
+"vol_online": 0.128
+},
+{
+"cod_cliente": "1141217",
+"produto": "Ks Tt",
+"vol_real": 0.0,
+"vol_online": 2.452
+},
+{
+"cod_cliente": "1141217",
+"produto": "Refri Zero",
+"vol_real": 0.0,
+"vol_online": 4.819
+},
+{
+"cod_cliente": "1141217",
+"produto": "Refrigerantes",
+"vol_real": 0.0,
+"vol_online": 24.749
+},
+{
+"cod_cliente": "1141217",
+"produto": "Refrigerantes Individual",
+"vol_real": 0.0,
+"vol_online": 18.409
+},
+{
+"cod_cliente": "1141217",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 0.0,
+"vol_online": 3.297
+},
+{
+"cod_cliente": "1141217",
+"produto": "Sabores Tt",
+"vol_real": 0.0,
+"vol_online": 4.332
+},
+{
+"cod_cliente": "1141217",
+"produto": "Sprite",
+"vol_real": 0.0,
+"vol_online": 0.37
+},
+{
+"cod_cliente": "1141217",
+"produto": "Del Valle Frut",
+"vol_real": 0.0,
+"vol_online": 1.585
+},
+{
+"cod_cliente": "1141217",
+"produto": "Dv Frut",
+"vol_real": 0.0,
+"vol_online": 1.585
+},
+{
+"cod_cliente": "1141217",
+"produto": "Dv Frut Ms",
+"vol_real": 0.0,
+"vol_online": 1.585
+},
+{
+"cod_cliente": "1141217",
+"produto": "Kapo",
+"vol_real": 0.0,
+"vol_online": 2.1
+},
+{
+"cod_cliente": "1141217",
+"produto": "Powerade",
+"vol_real": 0.0,
+"vol_online": 0.53
+},
+{
+"cod_cliente": "1141217",
+"produto": "Still",
+"vol_real": 0.0,
+"vol_online": 4.215
+},
+{
+"cod_cliente": "1141217",
+"produto": "Sucos",
+"vol_real": 0.0,
+"vol_online": 3.685
+},
+{
+"cod_cliente": "1144225",
+"produto": "Cctm 2l Pet",
+"vol_real": 10.567,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1144225",
+"produto": "Refri Zero",
+"vol_real": 10.567,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1144225",
+"produto": "Refrigerantes",
+"vol_real": 15.238,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1144225",
+"produto": "Refrigerantes Individual",
+"vol_real": 1.501,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1144225",
+"produto": "Del Valle Frut",
+"vol_real": 7.926,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1144225",
+"produto": "Dv Frut",
+"vol_real": 7.926,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1144225",
+"produto": "Dv Frut Ms",
+"vol_real": 7.926,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1144225",
+"produto": "Dv Néctar",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1144225",
+"produto": "Kapo",
+"vol_real": 0.42,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1144225",
+"produto": "Powerade",
+"vol_real": 2.65,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1144225",
+"produto": "Still",
+"vol_real": 15.222,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1144225",
+"produto": "Sucos",
+"vol_real": 12.572,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1144783",
+"produto": "Artd Ko",
+"vol_real": 0.0,
+"vol_online": 1.614
+},
+{
+"cod_cliente": "1144783",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.0,
+"vol_online": 24.272
+},
+{
+"cod_cliente": "1144783",
+"produto": "Candies",
+"vol_real": 0.0,
+"vol_online": 0.308
+},
+{
+"cod_cliente": "1144783",
+"produto": "Fini",
+"vol_real": 0.0,
+"vol_online": 0.18
+},
+{
+"cod_cliente": "1144783",
+"produto": "Perfetti Tt",
+"vol_real": 0.0,
+"vol_online": 0.128
+},
+{
+"cod_cliente": "1144783",
+"produto": "Cervejas",
+"vol_real": 0.0,
+"vol_online": 0.041
+},
+{
+"cod_cliente": "1144783",
+"produto": "Cervejas Premium",
+"vol_real": 0.0,
+"vol_online": 0.041
+},
+{
+"cod_cliente": "1144783",
+"produto": "Eisenbahn",
+"vol_real": 0.0,
+"vol_online": 0.021
+},
+{
+"cod_cliente": "1144783",
+"produto": "Sol Premiun",
+"vol_real": 0.0,
+"vol_online": 0.02
+},
+{
+"cod_cliente": "1144783",
+"produto": "Aperitivo",
+"vol_real": 0.0,
+"vol_online": 0.75
+},
+{
+"cod_cliente": "1144783",
+"produto": "Aperol",
+"vol_real": 0.0,
+"vol_online": 0.75
+},
+{
+"cod_cliente": "1144783",
+"produto": "Destilados",
+"vol_real": 0.0,
+"vol_online": 22.35
+},
+{
+"cod_cliente": "1144783",
+"produto": "Dreher",
+"vol_real": 0.0,
+"vol_online": 21.6
+},
+{
+"cod_cliente": "1144783",
+"produto": "Cctm 2l Pet",
+"vol_real": 0.0,
+"vol_online": 10.567
+},
+{
+"cod_cliente": "1144783",
+"produto": "Ks Tt",
+"vol_real": 0.0,
+"vol_online": 1.226
+},
+{
+"cod_cliente": "1144783",
+"produto": "Kuat Zero",
+"vol_real": 0.0,
+"vol_online": 10.567
+},
+{
+"cod_cliente": "1144783",
+"produto": "Kuat Zero 2l",
+"vol_real": 0.0,
+"vol_online": 10.567
+},
+{
+"cod_cliente": "1144783",
+"produto": "Refri Sabores Zero",
+"vol_real": 10.567,
+"vol_online": 16.907
+},
+{
+"cod_cliente": "1144783",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 10.567,
+"vol_online": 16.907
+},
+{
+"cod_cliente": "1144783",
+"produto": "Refri Zero",
+"vol_real": 19.0,
+"vol_online": 37.746
+},
+{
+"cod_cliente": "1144783",
+"produto": "Refrigerantes",
+"vol_real": 163.307,
+"vol_online": 243.254
+},
+{
+"cod_cliente": "1144783",
+"produto": "Refrigerantes Individual",
+"vol_real": 25.933,
+"vol_online": 29.272
+},
+{
+"cod_cliente": "1144783",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 0.0,
+"vol_online": 1.226
+},
+{
+"cod_cliente": "1144783",
+"produto": "Sabores Tt",
+"vol_real": 86.544,
+"vol_online": 151.425
+},
+{
+"cod_cliente": "1144783",
+"produto": "Sprite",
+"vol_real": 31.701,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1144783",
+"produto": "Ades",
+"vol_real": 0.0,
+"vol_online": 10.567
+},
+{
+"cod_cliente": "1144783",
+"produto": "Del Valle Frut",
+"vol_real": 16.802,
+"vol_online": 15.851
+},
+{
+"cod_cliente": "1144783",
+"produto": "Dv Frut",
+"vol_real": 16.802,
+"vol_online": 15.851
+},
+{
+"cod_cliente": "1144783",
+"produto": "Dv Frut Ms",
+"vol_real": 15.851,
+"vol_online": 15.851
+},
+{
+"cod_cliente": "1144783",
+"produto": "Dv Néctar",
+"vol_real": 5.284,
+"vol_online": 21.747
+},
+{
+"cod_cliente": "1144783",
+"produto": "Kapo",
+"vol_real": 2.52,
+"vol_online": 3.36
+},
+{
+"cod_cliente": "1144783",
+"produto": "Powerade",
+"vol_real": 0.0,
+"vol_online": 4.24
+},
+{
+"cod_cliente": "1144783",
+"produto": "Still",
+"vol_real": 24.605,
+"vol_online": 55.765
+},
+{
+"cod_cliente": "1144783",
+"produto": "Sucos",
+"vol_real": 24.605,
+"vol_online": 40.958
+},
+{
+"cod_cliente": "1144783",
+"produto": "Agua Mineral",
+"vol_real": 6.0,
+"vol_online": 330.0
+},
+{
+"cod_cliente": "1146870",
+"produto": "Candies",
+"vol_real": 0.0,
+"vol_online": 0.308
+},
+{
+"cod_cliente": "1146870",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.0,
+"vol_online": 0.308
+},
+{
+"cod_cliente": "1146870",
+"produto": "Fini",
+"vol_real": 0.0,
+"vol_online": 0.18
+},
+{
+"cod_cliente": "1146870",
+"produto": "Perfetti Tt",
+"vol_real": 0.0,
+"vol_online": 0.128
+},
+{
+"cod_cliente": "1146870",
+"produto": "Cctm 2l Pet",
+"vol_real": 84.536,
+"vol_online": 52.835
+},
+{
+"cod_cliente": "1146870",
+"produto": "Kuat Zero",
+"vol_real": 0.37,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1146870",
+"produto": "Refri Sabores Zero",
+"vol_real": 15.164,
+"vol_online": 9.193
+},
+{
+"cod_cliente": "1146870",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 14.794,
+"vol_online": 8.454
+},
+{
+"cod_cliente": "1146870",
+"produto": "Refri Zero",
+"vol_real": 39.045,
+"vol_online": 22.93
+},
+{
+"cod_cliente": "1146870",
+"produto": "Refrigerantes",
+"vol_real": 174.356,
+"vol_online": 106.41
+},
+{
+"cod_cliente": "1146870",
+"produto": "Refrigerantes Individual",
+"vol_real": 11.624,
+"vol_online": 7.08
+},
+{
+"cod_cliente": "1146870",
+"produto": "Sabores Tt",
+"vol_real": 81.154,
+"vol_online": 46.495
+},
+{
+"cod_cliente": "1146870",
+"produto": "Sprite",
+"vol_real": 19.39,
+"vol_online": 13.42
+},
+{
+"cod_cliente": "1146870",
+"produto": "Del Valle Frut",
+"vol_real": 1.057,
+"vol_online": 3.17
+},
+{
+"cod_cliente": "1146870",
+"produto": "Dv Frut",
+"vol_real": 1.057,
+"vol_online": 3.17
+},
+{
+"cod_cliente": "1146870",
+"produto": "Dv Frut Ms",
+"vol_real": 1.057,
+"vol_online": 3.17
+},
+{
+"cod_cliente": "1146870",
+"produto": "Kapo",
+"vol_real": 4.2,
+"vol_online": 4.2
+},
+{
+"cod_cliente": "1146870",
+"produto": "Powerade",
+"vol_real": 0.0,
+"vol_online": 0.53
+},
+{
+"cod_cliente": "1146870",
+"produto": "Still",
+"vol_real": 5.257,
+"vol_online": 7.9
+},
+{
+"cod_cliente": "1146870",
+"produto": "Sucos",
+"vol_real": 5.257,
+"vol_online": 7.37
+},
+{
+"cod_cliente": "1146870",
+"produto": "Agua Mineral",
+"vol_real": 36.0,
+"vol_online": 54.0
+},
+{
+"cod_cliente": "1148189",
+"produto": "Cctm 2l Pet",
+"vol_real": 10.567,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1148189",
+"produto": "Ks Tt",
+"vol_real": 0.0,
+"vol_online": 3.678
+},
+{
+"cod_cliente": "1148189",
+"produto": "Refri Sabores Zero",
+"vol_real": 21.134,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1148189",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 21.134,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1148189",
+"produto": "Refri Zero",
+"vol_real": 33.18,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1148189",
+"produto": "Refrigerantes",
+"vol_real": 56.533,
+"vol_online": 7.958
+},
+{
+"cod_cliente": "1148189",
+"produto": "Refrigerantes Individual",
+"vol_real": 3.699,
+"vol_online": 4.788
+},
+{
+"cod_cliente": "1148189",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 0.0,
+"vol_online": 3.678
+},
+{
+"cod_cliente": "1148189",
+"produto": "Sabores Tt",
+"vol_real": 42.268,
+"vol_online": 4.28
+},
+{
+"cod_cliente": "1148189",
+"produto": "Sprite",
+"vol_real": 21.134,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1148189",
+"produto": "Del Valle Frut",
+"vol_real": 3.17,
+"vol_online": 6.34
+},
+{
+"cod_cliente": "1148189",
+"produto": "Dv Frut",
+"vol_real": 3.17,
+"vol_online": 6.34
+},
+{
+"cod_cliente": "1148189",
+"produto": "Dv Frut Ms",
+"vol_real": 3.17,
+"vol_online": 6.34
+},
+{
+"cod_cliente": "1148189",
+"produto": "Powerade",
+"vol_real": 0.0,
+"vol_online": 4.24
+},
+{
+"cod_cliente": "1148189",
+"produto": "Still",
+"vol_real": 3.17,
+"vol_online": 10.58
+},
+{
+"cod_cliente": "1148189",
+"produto": "Sucos",
+"vol_real": 3.17,
+"vol_online": 6.34
+},
+{
+"cod_cliente": "1148189",
+"produto": "Agua Mineral",
+"vol_real": 0.0,
+"vol_online": 126.0
+},
+{
+"cod_cliente": "1149216",
+"produto": "Refrigerantes",
+"vol_real": 0.74,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1149216",
+"produto": "Refrigerantes Individual",
+"vol_real": 0.74,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1149216",
+"produto": "Dv Néctar",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1149216",
+"produto": "Kapo",
+"vol_real": 1.68,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1149216",
+"produto": "Still",
+"vol_real": 5.907,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1149216",
+"produto": "Sucos",
+"vol_real": 5.907,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1149216",
+"produto": "Agua Mineral",
+"vol_real": 0.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1151569",
+"produto": "Agua Mineral",
+"vol_real": 0.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1153487",
+"produto": "Candies",
+"vol_real": 0.0,
+"vol_online": 0.128
+},
+{
+"cod_cliente": "1153487",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.0,
+"vol_online": 0.128
+},
+{
+"cod_cliente": "1153487",
+"produto": "Perfetti Tt",
+"vol_real": 0.0,
+"vol_online": 0.128
+},
+{
+"cod_cliente": "1153487",
+"produto": "Ks Tt",
+"vol_real": 1.226,
+"vol_online": 1.226
+},
+{
+"cod_cliente": "1153487",
+"produto": "Refri Zero",
+"vol_real": 0.74,
+"vol_online": 1.479
+},
+{
+"cod_cliente": "1153487",
+"produto": "Refrigerantes",
+"vol_real": 6.193,
+"vol_online": 6.087
+},
+{
+"cod_cliente": "1153487",
+"produto": "Refrigerantes Individual",
+"vol_real": 5.136,
+"vol_online": 6.087
+},
+{
+"cod_cliente": "1153487",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 1.226,
+"vol_online": 1.226
+},
+{
+"cod_cliente": "1153487",
+"produto": "Sabores Tt",
+"vol_real": 0.0,
+"vol_online": 1.479
+},
+{
+"cod_cliente": "1153487",
+"produto": "Sprite",
+"vol_real": 0.0,
+"vol_online": 0.37
+},
+{
+"cod_cliente": "1153487",
+"produto": "Dv Néctar",
+"vol_real": 0.0,
+"vol_online": 0.306
+},
+{
+"cod_cliente": "1153487",
+"produto": "Monster",
+"vol_real": 0.0,
+"vol_online": 0.5
+},
+{
+"cod_cliente": "1153487",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1153487",
+"produto": "Still",
+"vol_real": 0.53,
+"vol_online": 0.806
+},
+{
+"cod_cliente": "1153487",
+"produto": "Sucos",
+"vol_real": 0.0,
+"vol_online": 0.306
+},
+{
+"cod_cliente": "1153487",
+"produto": "Agua Mineral",
+"vol_real": 6.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1161231",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.0,
+"vol_online": 0.9
+},
+{
+"cod_cliente": "1161231",
+"produto": "Destilados",
+"vol_real": 0.0,
+"vol_online": 0.9
+},
+{
+"cod_cliente": "1161231",
+"produto": "Dreher",
+"vol_real": 0.0,
+"vol_online": 0.9
+},
+{
+"cod_cliente": "1161231",
+"produto": "Cctm 2l Pet",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1161231",
+"produto": "Ks Tt",
+"vol_real": 0.0,
+"vol_online": 1.226
+},
+{
+"cod_cliente": "1161231",
+"produto": "Refri Zero",
+"vol_real": 0.74,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1161231",
+"produto": "Refrigerantes",
+"vol_real": 4.966,
+"vol_online": 1.226
+},
+{
+"cod_cliente": "1161231",
+"produto": "Refrigerantes Individual",
+"vol_real": 0.74,
+"vol_online": 1.226
+},
+{
+"cod_cliente": "1161231",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 0.0,
+"vol_online": 1.226
+},
+{
+"cod_cliente": "1161231",
+"produto": "Monster",
+"vol_real": 0.0,
+"vol_online": 1.0
+},
+{
+"cod_cliente": "1161231",
+"produto": "Still",
+"vol_real": 0.0,
+"vol_online": 1.0
+},
+{
+"cod_cliente": "1161231",
+"produto": "Agua Mineral",
+"vol_real": 30.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1161604",
+"produto": "Cctm 2l Pet",
+"vol_real": 52.835,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1161604",
+"produto": "Kuat Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1161604",
+"produto": "Kuat Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1161604",
+"produto": "Refri Sabores Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1161604",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1161604",
+"produto": "Refri Zero",
+"vol_real": 12.046,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1161604",
+"produto": "Refrigerantes",
+"vol_real": 67.523,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1161604",
+"produto": "Refrigerantes Individual",
+"vol_real": 4.121,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1161604",
+"produto": "Sabores Tt",
+"vol_real": 8.454,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1161604",
+"produto": "Sprite",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1161604",
+"produto": "Agua Mineral",
+"vol_real": 6.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1163365",
+"produto": "Cctm 2l Pet",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1163365",
+"produto": "Refrigerantes",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1163365",
+"produto": "Kapo",
+"vol_real": 0.42,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1163365",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1163365",
+"produto": "Still",
+"vol_real": 0.95,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1163365",
+"produto": "Sucos",
+"vol_real": 0.42,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1165185",
+"produto": "Aperitivo",
+"vol_real": 3.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1165185",
+"produto": "Aperol",
+"vol_real": 3.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1165185",
+"produto": "Dest+Art+Cnd",
+"vol_real": 3.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1165185",
+"produto": "Destilados",
+"vol_real": 3.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1165185",
+"produto": "Refri Zero",
+"vol_real": 18.492,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1165185",
+"produto": "Refrigerantes",
+"vol_real": 42.533,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1165185",
+"produto": "Refrigerantes Individual",
+"vol_real": 42.533,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1165185",
+"produto": "Sabores Tt",
+"vol_real": 9.247,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1165185",
+"produto": "Sprite",
+"vol_real": 5.547,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1165185",
+"produto": "Agua Mineral",
+"vol_real": 120.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1166036",
+"produto": "Dest+Art+Cnd",
+"vol_real": 5.4,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1166036",
+"produto": "Destilados",
+"vol_real": 5.4,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1166036",
+"produto": "Dreher",
+"vol_real": 5.4,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1166036",
+"produto": "Refrigerantes",
+"vol_real": 2.113,
+"vol_online": 21.831
+},
+{
+"cod_cliente": "1166036",
+"produto": "Refrigerantes Individual",
+"vol_real": 0.0,
+"vol_online": 0.698
+},
+{
+"cod_cliente": "1166036",
+"produto": "Sabores Tt",
+"vol_real": 0.0,
+"vol_online": 21.134
+},
+{
+"cod_cliente": "1166036",
+"produto": "Del Valle Frut",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1166036",
+"produto": "Dv Frut",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1166036",
+"produto": "Dv Frut Ms",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1166036",
+"produto": "Dv Néctar",
+"vol_real": 3.064,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1166036",
+"produto": "Kapo",
+"vol_real": 3.78,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1166036",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1166036",
+"produto": "Still",
+"vol_real": 13.714,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1166036",
+"produto": "Sucos",
+"vol_real": 13.184,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1166036",
+"produto": "Agua Mineral",
+"vol_real": 0.0,
+"vol_online": 45.0
+},
+{
+"cod_cliente": "1171219",
+"produto": "Cervejas",
+"vol_real": 0.021,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1171219",
+"produto": "Cervejas Premium",
+"vol_real": 0.021,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1171219",
+"produto": "Eisenbahn",
+"vol_real": 0.021,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1171219",
+"produto": "Cctm 2l Pet",
+"vol_real": 14.794,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1171219",
+"produto": "Ks Tt",
+"vol_real": 3.678,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1171219",
+"produto": "Refri Zero",
+"vol_real": 6.7,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1171219",
+"produto": "Refrigerantes",
+"vol_real": 57.317,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1171219",
+"produto": "Refrigerantes Individual",
+"vol_real": 30.435,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1171219",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 3.678,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1171219",
+"produto": "Sabores Tt",
+"vol_real": 5.77,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1171219",
+"produto": "Dv Néctar",
+"vol_real": 1.532,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1171219",
+"produto": "Kapo",
+"vol_real": 0.42,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1171219",
+"produto": "Monster",
+"vol_real": 1.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1171219",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1171219",
+"produto": "Still",
+"vol_real": 3.482,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1171219",
+"produto": "Sucos",
+"vol_real": 1.952,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1171219",
+"produto": "Agua Mineral",
+"vol_real": 6.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1172582",
+"produto": "Artd Ko",
+"vol_real": 0.0,
+"vol_online": 1.614
+},
+{
+"cod_cliente": "1172582",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.0,
+"vol_online": 3.61
+},
+{
+"cod_cliente": "1172582",
+"produto": "Aperitivo",
+"vol_real": 0.0,
+"vol_online": 1.996
+},
+{
+"cod_cliente": "1172582",
+"produto": "Campari",
+"vol_real": 0.0,
+"vol_online": 1.996
+},
+{
+"cod_cliente": "1172582",
+"produto": "Destilados",
+"vol_real": 0.0,
+"vol_online": 1.996
+},
+{
+"cod_cliente": "1172582",
+"produto": "Cctm 2l Pet",
+"vol_real": 4.227,
+"vol_online": 6.34
+},
+{
+"cod_cliente": "1172582",
+"produto": "Refri Zero",
+"vol_real": 0.74,
+"vol_online": 0.74
+},
+{
+"cod_cliente": "1172582",
+"produto": "Refrigerantes",
+"vol_real": 6.446,
+"vol_online": 7.82
+},
+{
+"cod_cliente": "1172582",
+"produto": "Refrigerantes Individual",
+"vol_real": 2.219,
+"vol_online": 1.479
+},
+{
+"cod_cliente": "1172582",
+"produto": "Sabores Tt",
+"vol_real": 0.74,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1172582",
+"produto": "Sprite",
+"vol_real": 0.37,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1172582",
+"produto": "Del Valle Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1172582",
+"produto": "Dv Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1172582",
+"produto": "Dv Frut Ms",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1172582",
+"produto": "Dv Néctar",
+"vol_real": 0.0,
+"vol_online": 1.057
+},
+{
+"cod_cliente": "1172582",
+"produto": "Kapo",
+"vol_real": 0.423,
+"vol_online": 0.84
+},
+{
+"cod_cliente": "1172582",
+"produto": "Monster",
+"vol_real": 0.5,
+"vol_online": 0.5
+},
+{
+"cod_cliente": "1172582",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.53
+},
+{
+"cod_cliente": "1172582",
+"produto": "Still",
+"vol_real": 3.038,
+"vol_online": 2.926
+},
+{
+"cod_cliente": "1172582",
+"produto": "Sucos",
+"vol_real": 2.008,
+"vol_online": 1.897
+},
+{
+"cod_cliente": "1172582",
+"produto": "Agua Mineral",
+"vol_real": 6.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1172716",
+"produto": "Cervejas",
+"vol_real": 0.0,
+"vol_online": 0.126
+},
+{
+"cod_cliente": "1172716",
+"produto": "Aperitivo",
+"vol_real": 0.0,
+"vol_online": 1.498
+},
+{
+"cod_cliente": "1172716",
+"produto": "Aperol",
+"vol_real": 0.0,
+"vol_online": 0.75
+},
+{
+"cod_cliente": "1172716",
+"produto": "Campari",
+"vol_real": 0.0,
+"vol_online": 0.748
+},
+{
+"cod_cliente": "1172716",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.0,
+"vol_online": 2.398
+},
+{
+"cod_cliente": "1172716",
+"produto": "Destilados",
+"vol_real": 0.0,
+"vol_online": 2.398
+},
+{
+"cod_cliente": "1172716",
+"produto": "Dreher",
+"vol_real": 0.0,
+"vol_online": 0.9
+},
+{
+"cod_cliente": "1172716",
+"produto": "Refri Sabores Zero",
+"vol_real": 0.0,
+"vol_online": 4.597
+},
+{
+"cod_cliente": "1172716",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 0.0,
+"vol_online": 4.227
+},
+{
+"cod_cliente": "1172716",
+"produto": "Refri Zero",
+"vol_real": 0.0,
+"vol_online": 5.865
+},
+{
+"cod_cliente": "1172716",
+"produto": "Refrigerantes",
+"vol_real": 0.0,
+"vol_online": 52.983
+},
+{
+"cod_cliente": "1172716",
+"produto": "Refrigerantes Individual",
+"vol_real": 0.0,
+"vol_online": 9.659
+},
+{
+"cod_cliente": "1172716",
+"produto": "Sabores Tt",
+"vol_real": 0.0,
+"vol_online": 39.626
+},
+{
+"cod_cliente": "1172716",
+"produto": "Sprite",
+"vol_real": 0.0,
+"vol_online": 11.307
+},
+{
+"cod_cliente": "1172716",
+"produto": "Del Valle Frut",
+"vol_real": 0.0,
+"vol_online": 3.17
+},
+{
+"cod_cliente": "1172716",
+"produto": "Dv Frut",
+"vol_real": 0.0,
+"vol_online": 3.17
+},
+{
+"cod_cliente": "1172716",
+"produto": "Dv Frut Ms",
+"vol_real": 0.0,
+"vol_online": 3.17
+},
+{
+"cod_cliente": "1172716",
+"produto": "Dv Néctar",
+"vol_real": 0.0,
+"vol_online": 6.34
+},
+{
+"cod_cliente": "1172716",
+"produto": "Kapo",
+"vol_real": 0.0,
+"vol_online": 2.52
+},
+{
+"cod_cliente": "1172716",
+"produto": "Monster",
+"vol_real": 0.0,
+"vol_online": 6.998
+},
+{
+"cod_cliente": "1172716",
+"produto": "Powerade",
+"vol_real": 0.0,
+"vol_online": 0.53
+},
+{
+"cod_cliente": "1172716",
+"produto": "Still",
+"vol_real": 0.0,
+"vol_online": 19.558
+},
+{
+"cod_cliente": "1172716",
+"produto": "Sucos",
+"vol_real": 0.0,
+"vol_online": 12.03
+},
+{
+"cod_cliente": "1172716",
+"produto": "Agua Mineral",
+"vol_real": 0.0,
+"vol_online": 69.0
+},
+{
+"cod_cliente": "1178432",
+"produto": "Candies",
+"vol_real": 0.128,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178432",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.128,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178432",
+"produto": "Perfetti Tt",
+"vol_real": 0.128,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178432",
+"produto": "Cctm 2l Pet",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178432",
+"produto": "Refri Zero",
+"vol_real": 0.74,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178432",
+"produto": "Refrigerantes",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178432",
+"produto": "Refrigerantes Individual",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178432",
+"produto": "Sabores Tt",
+"vol_real": 1.479,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178432",
+"produto": "Monster",
+"vol_real": 1.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178432",
+"produto": "Powerade",
+"vol_real": 1.06,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178432",
+"produto": "Still",
+"vol_real": 2.06,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Cervejas",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Cervejas Premium",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Sol Premiun",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Aperitivo",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Campari",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Dest+Art+Cnd",
+"vol_real": 1.648,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Destilados",
+"vol_real": 1.648,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Dreher",
+"vol_real": 0.9,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Ks Tt",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Refri Zero",
+"vol_real": 1.479,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Refrigerantes",
+"vol_real": 11.634,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Refrigerantes Individual",
+"vol_real": 4.554,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 7.566,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Sabores Tt",
+"vol_real": 1.965,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Sprite",
+"vol_real": 0.37,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Del Valle Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Dv Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Dv Frut Ms",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Dv Néctar",
+"vol_real": 2.148,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Monster",
+"vol_real": 1.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Still",
+"vol_real": 5.263,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Sucos",
+"vol_real": 3.733,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1178628",
+"produto": "Agua Mineral",
+"vol_real": 12.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1179149",
+"produto": "Cctm 2l Pet",
+"vol_real": 16.907,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1179149",
+"produto": "Kuat Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1179149",
+"produto": "Kuat Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1179149",
+"produto": "Refri Sabores Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1179149",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1179149",
+"produto": "Refri Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1179149",
+"produto": "Refrigerantes",
+"vol_real": 39.785,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1179149",
+"produto": "Refrigerantes Individual",
+"vol_real": 8.084,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1179149",
+"produto": "Sabores Tt",
+"vol_real": 16.907,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1179149",
+"produto": "Sprite",
+"vol_real": 8.823,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180271",
+"produto": "Candies",
+"vol_real": 0.0,
+"vol_online": 0.308
+},
+{
+"cod_cliente": "1180271",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.0,
+"vol_online": 7.292
+},
+{
+"cod_cliente": "1180271",
+"produto": "Fini",
+"vol_real": 0.0,
+"vol_online": 0.18
+},
+{
+"cod_cliente": "1180271",
+"produto": "Perfetti Tt",
+"vol_real": 0.0,
+"vol_online": 0.128
+},
+{
+"cod_cliente": "1180271",
+"produto": "Cervejas",
+"vol_real": 0.44,
+"vol_online": 0.164
+},
+{
+"cod_cliente": "1180271",
+"produto": "Cervejas 600ml Retornavel",
+"vol_real": 0.0,
+"vol_online": 0.144
+},
+{
+"cod_cliente": "1180271",
+"produto": "Cervejas Premium",
+"vol_real": 0.02,
+"vol_online": 0.02
+},
+{
+"cod_cliente": "1180271",
+"produto": "Sol Premiun",
+"vol_real": 0.02,
+"vol_online": 0.02
+},
+{
+"cod_cliente": "1180271",
+"produto": "Aperitivo",
+"vol_real": 0.0,
+"vol_online": 6.984
+},
+{
+"cod_cliente": "1180271",
+"produto": "Campari",
+"vol_real": 0.0,
+"vol_online": 6.984
+},
+{
+"cod_cliente": "1180271",
+"produto": "Destilados",
+"vol_real": 0.0,
+"vol_online": 6.984
+},
+{
+"cod_cliente": "1180271",
+"produto": "Cctm 2l Pet",
+"vol_real": 173.299,
+"vol_online": 63.402
+},
+{
+"cod_cliente": "1180271",
+"produto": "Kuat Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180271",
+"produto": "Kuat Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180271",
+"produto": "Refri Sabores Zero",
+"vol_real": 6.71,
+"vol_online": 4.597
+},
+{
+"cod_cliente": "1180271",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 6.34,
+"vol_online": 4.227
+},
+{
+"cod_cliente": "1180271",
+"produto": "Refri Zero",
+"vol_real": 32.176,
+"vol_online": 33.339
+},
+{
+"cod_cliente": "1180271",
+"produto": "Refrigerantes",
+"vol_real": 252.236,
+"vol_online": 101.433
+},
+{
+"cod_cliente": "1180271",
+"produto": "Refrigerantes Individual",
+"vol_real": 13.42,
+"vol_online": 7.386
+},
+{
+"cod_cliente": "1180271",
+"produto": "Sabores Tt",
+"vol_real": 46.865,
+"vol_online": 33.973
+},
+{
+"cod_cliente": "1180271",
+"produto": "Sprite",
+"vol_real": 14.794,
+"vol_online": 15.533
+},
+{
+"cod_cliente": "1180271",
+"produto": "Kapo",
+"vol_real": 4.2,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180271",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180271",
+"produto": "Still",
+"vol_real": 4.73,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180271",
+"produto": "Sucos",
+"vol_real": 4.2,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Artd Ko",
+"vol_real": 1.614,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Dest+Art+Cnd",
+"vol_real": 6.03,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Candies",
+"vol_real": 0.672,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Perfetti Tt",
+"vol_real": 0.672,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Cervejas",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Cervejas Premium",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Sol Premiun",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Aperitivo",
+"vol_real": 3.744,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Aperol",
+"vol_real": 0.75,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Campari",
+"vol_real": 2.994,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Destilados",
+"vol_real": 3.744,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Ks Tt",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Refri Zero",
+"vol_real": 1.944,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Refrigerantes",
+"vol_real": 33.784,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Refrigerantes Individual",
+"vol_real": 21.103,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 13.906,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Sabores Tt",
+"vol_real": 4.808,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Sprite",
+"vol_real": 0.74,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Dv Néctar",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Kapo",
+"vol_real": 1.26,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Monster",
+"vol_real": 1.499,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Powerade",
+"vol_real": 1.06,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Still",
+"vol_real": 5.045,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Sucos",
+"vol_real": 2.486,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180359",
+"produto": "Agua Mineral",
+"vol_real": 36.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180589",
+"produto": "Cctm 2l Pet",
+"vol_real": 6.34,
+"vol_online": 6.34
+},
+{
+"cod_cliente": "1180589",
+"produto": "Refrigerantes",
+"vol_real": 7.08,
+"vol_online": 7.45
+},
+{
+"cod_cliente": "1180589",
+"produto": "Refrigerantes Individual",
+"vol_real": 0.74,
+"vol_online": 1.109
+},
+{
+"cod_cliente": "1180589",
+"produto": "Sabores Tt",
+"vol_real": 0.0,
+"vol_online": 0.37
+},
+{
+"cod_cliente": "1180589",
+"produto": "Sprite",
+"vol_real": 0.0,
+"vol_online": 0.37
+},
+{
+"cod_cliente": "1180589",
+"produto": "Del Valle Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180589",
+"produto": "Dv Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180589",
+"produto": "Dv Frut Ms",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1180589",
+"produto": "Kapo",
+"vol_real": 0.84,
+"vol_online": 0.42
+},
+{
+"cod_cliente": "1180589",
+"produto": "Monster",
+"vol_real": 0.0,
+"vol_online": 0.5
+},
+{
+"cod_cliente": "1180589",
+"produto": "Powerade",
+"vol_real": 0.0,
+"vol_online": 0.53
+},
+{
+"cod_cliente": "1180589",
+"produto": "Still",
+"vol_real": 2.425,
+"vol_online": 1.45
+},
+{
+"cod_cliente": "1180589",
+"produto": "Sucos",
+"vol_real": 2.425,
+"vol_online": 0.42
+},
+{
+"cod_cliente": "1180589",
+"produto": "Agua Mineral",
+"vol_real": 12.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Candies",
+"vol_real": 0.308,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.308,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Fini",
+"vol_real": 0.18,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Perfetti Tt",
+"vol_real": 0.128,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Cervejas",
+"vol_real": 0.041,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Cervejas Premium",
+"vol_real": 0.041,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Eisenbahn",
+"vol_real": 0.021,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Sol Premiun",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Cctm 2l Pet",
+"vol_real": 95.103,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Kuat Zero",
+"vol_real": 4.597,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Kuat Zero 2l",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Refri Sabores Zero",
+"vol_real": 8.823,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 8.454,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Refri Zero",
+"vol_real": 22.349,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Refrigerantes",
+"vol_real": 184.564,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Refrigerantes Individual",
+"vol_real": 33.456,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Sabores Tt",
+"vol_real": 56.586,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Sprite",
+"vol_real": 9.193,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Del Valle Frut",
+"vol_real": 20.342,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Dv Frut",
+"vol_real": 20.342,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Dv Frut Ms",
+"vol_real": 17.964,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Dv Néctar",
+"vol_real": 1.057,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Kapo",
+"vol_real": 0.84,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Monster",
+"vol_real": 5.498,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Powerade",
+"vol_real": 1.06,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Still",
+"vol_real": 28.797,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1181192",
+"produto": "Sucos",
+"vol_real": 22.239,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1182376",
+"produto": "Dest+Art+Cnd",
+"vol_real": 1.8,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1182376",
+"produto": "Destilados",
+"vol_real": 1.8,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1182376",
+"produto": "Dreher",
+"vol_real": 1.8,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1182376",
+"produto": "Refrigerantes",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1182376",
+"produto": "Dv Néctar",
+"vol_real": 3.17,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1182376",
+"produto": "Kapo",
+"vol_real": 0.42,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1182376",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1182376",
+"produto": "Still",
+"vol_real": 4.12,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1182376",
+"produto": "Sucos",
+"vol_real": 3.59,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1182376",
+"produto": "Agua Mineral",
+"vol_real": 30.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1182474",
+"produto": "Artd Ko",
+"vol_real": 0.0,
+"vol_online": 1.614
+},
+{
+"cod_cliente": "1182474",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.0,
+"vol_online": 3.572
+},
+{
+"cod_cliente": "1182474",
+"produto": "Candies",
+"vol_real": 0.0,
+"vol_online": 0.308
+},
+{
+"cod_cliente": "1182474",
+"produto": "Fini",
+"vol_real": 0.0,
+"vol_online": 0.18
+},
+{
+"cod_cliente": "1182474",
+"produto": "Perfetti Tt",
+"vol_real": 0.0,
+"vol_online": 0.128
+},
+{
+"cod_cliente": "1182474",
+"produto": "Cervejas",
+"vol_real": 0.0,
+"vol_online": 0.041
+},
+{
+"cod_cliente": "1182474",
+"produto": "Cervejas Premium",
+"vol_real": 0.0,
+"vol_online": 0.041
+},
+{
+"cod_cliente": "1182474",
+"produto": "Eisenbahn",
+"vol_real": 0.0,
+"vol_online": 0.021
+},
+{
+"cod_cliente": "1182474",
+"produto": "Sol Premiun",
+"vol_real": 0.0,
+"vol_online": 0.02
+},
+{
+"cod_cliente": "1182474",
+"produto": "Aperitivo",
+"vol_real": 0.0,
+"vol_online": 0.75
+},
+{
+"cod_cliente": "1182474",
+"produto": "Aperol",
+"vol_real": 0.0,
+"vol_online": 0.75
+},
+{
+"cod_cliente": "1182474",
+"produto": "Destilados",
+"vol_real": 0.0,
+"vol_online": 1.65
+},
+{
+"cod_cliente": "1182474",
+"produto": "Dreher",
+"vol_real": 0.0,
+"vol_online": 0.9
+},
+{
+"cod_cliente": "1182474",
+"produto": "Cctm 2l Pet",
+"vol_real": 137.371,
+"vol_online": 137.371
+},
+{
+"cod_cliente": "1182474",
+"produto": "Ks Tt",
+"vol_real": 0.0,
+"vol_online": 2.452
+},
+{
+"cod_cliente": "1182474",
+"produto": "Kuat Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1182474",
+"produto": "Kuat Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1182474",
+"produto": "Refri Sabores Zero",
+"vol_real": 6.34,
+"vol_online": 2.113
+},
+{
+"cod_cliente": "1182474",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 6.34,
+"vol_online": 2.113
+},
+{
+"cod_cliente": "1182474",
+"produto": "Refri Zero",
+"vol_real": 46.897,
+"vol_online": 49.447
+},
+{
+"cod_cliente": "1182474",
+"produto": "Refrigerantes",
+"vol_real": 225.141,
+"vol_online": 242.127
+},
+{
+"cod_cliente": "1182474",
+"produto": "Refrigerantes Individual",
+"vol_real": 13.801,
+"vol_online": 23.925
+},
+{
+"cod_cliente": "1182474",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 0.0,
+"vol_online": 15.125
+},
+{
+"cod_cliente": "1182474",
+"produto": "Sabores Tt",
+"vol_real": 58.118,
+"vol_online": 64.205
+},
+{
+"cod_cliente": "1182474",
+"produto": "Sprite",
+"vol_real": 12.68,
+"vol_online": 14.794
+},
+{
+"cod_cliente": "1182474",
+"produto": "Del Valle Frut",
+"vol_real": 14.266,
+"vol_online": 12.681
+},
+{
+"cod_cliente": "1182474",
+"produto": "Dv Frut",
+"vol_real": 14.266,
+"vol_online": 12.681
+},
+{
+"cod_cliente": "1182474",
+"produto": "Dv Frut Ms",
+"vol_real": 14.266,
+"vol_online": 12.681
+},
+{
+"cod_cliente": "1182474",
+"produto": "Kapo",
+"vol_real": 0.0,
+"vol_online": 5.04
+},
+{
+"cod_cliente": "1182474",
+"produto": "Monster",
+"vol_real": 0.0,
+"vol_online": 13.497
+},
+{
+"cod_cliente": "1182474",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1182474",
+"produto": "Still",
+"vol_real": 14.796,
+"vol_online": 31.217
+},
+{
+"cod_cliente": "1182474",
+"produto": "Sucos",
+"vol_real": 14.266,
+"vol_online": 17.721
+},
+{
+"cod_cliente": "1182474",
+"produto": "Agua Mineral",
+"vol_real": 0.0,
+"vol_online": 126.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Aperitivo",
+"vol_real": 10.476,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Campari",
+"vol_real": 10.476,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Dest+Art+Cnd",
+"vol_real": 10.476,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Destilados",
+"vol_real": 10.476,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Cctm 2l Pet",
+"vol_real": 40.155,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Ks Tt",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Refri Zero",
+"vol_real": 15.745,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Refrigerantes",
+"vol_real": 103.685,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Refrigerantes Individual",
+"vol_real": 8.053,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 13.906,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Sabores Tt",
+"vol_real": 23.829,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Sprite",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Del Valle Frut",
+"vol_real": 3.17,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Dv Frut",
+"vol_real": 3.17,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Dv Frut Ms",
+"vol_real": 3.17,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Dv Néctar",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Kapo",
+"vol_real": 1.68,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Monster",
+"vol_real": 3.999,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Still",
+"vol_real": 13.076,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Sucos",
+"vol_real": 9.077,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187221",
+"produto": "Agua Mineral",
+"vol_real": 84.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187244",
+"produto": "Cervejas",
+"vol_real": 0.0,
+"vol_online": 0.042
+},
+{
+"cod_cliente": "1187244",
+"produto": "Ks Tt",
+"vol_real": 0.0,
+"vol_online": 1.226
+},
+{
+"cod_cliente": "1187244",
+"produto": "Refrigerantes",
+"vol_real": 0.0,
+"vol_online": 1.691
+},
+{
+"cod_cliente": "1187244",
+"produto": "Refrigerantes Individual",
+"vol_real": 0.0,
+"vol_online": 1.691
+},
+{
+"cod_cliente": "1187244",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 0.0,
+"vol_online": 1.226
+},
+{
+"cod_cliente": "1187244",
+"produto": "Dv Néctar",
+"vol_real": 0.0,
+"vol_online": 0.613
+},
+{
+"cod_cliente": "1187244",
+"produto": "Still",
+"vol_real": 0.0,
+"vol_online": 0.613
+},
+{
+"cod_cliente": "1187244",
+"produto": "Sucos",
+"vol_real": 0.0,
+"vol_online": 0.613
+},
+{
+"cod_cliente": "1187244",
+"produto": "Agua Mineral",
+"vol_real": 0.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1187938",
+"produto": "Cctm 2l Pet",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187938",
+"produto": "Ks Tt",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187938",
+"produto": "Refri Zero",
+"vol_real": 3.276,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187938",
+"produto": "Refrigerantes",
+"vol_real": 15.756,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187938",
+"produto": "Refrigerantes Individual",
+"vol_real": 7.302,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187938",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1187938",
+"produto": "Sabores Tt",
+"vol_real": 3.223,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1189132",
+"produto": "Refri Zero",
+"vol_real": 0.74,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1189132",
+"produto": "Refrigerantes",
+"vol_real": 1.849,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1189132",
+"produto": "Refrigerantes Individual",
+"vol_real": 1.849,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1189132",
+"produto": "Sabores Tt",
+"vol_real": 0.37,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1189132",
+"produto": "Monster",
+"vol_real": 1.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1189132",
+"produto": "Still",
+"vol_real": 1.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1191369",
+"produto": "Cctm 2l Pet",
+"vol_real": 19.021,
+"vol_online": 10.567
+},
+{
+"cod_cliente": "1191369",
+"produto": "Ks Tt",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1191369",
+"produto": "Refri Sabores Zero",
+"vol_real": 0.0,
+"vol_online": 0.74
+},
+{
+"cod_cliente": "1191369",
+"produto": "Refri Zero",
+"vol_real": 9.785,
+"vol_online": 2.536
+},
+{
+"cod_cliente": "1191369",
+"produto": "Refrigerantes",
+"vol_real": 41.698,
+"vol_online": 23.987
+},
+{
+"cod_cliente": "1191369",
+"produto": "Refrigerantes Individual",
+"vol_real": 13.167,
+"vol_online": 4.966
+},
+{
+"cod_cliente": "1191369",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 3.339,
+"vol_online": 2.113
+},
+{
+"cod_cliente": "1191369",
+"produto": "Sabores Tt",
+"vol_real": 2.219,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1191369",
+"produto": "Sprite",
+"vol_real": 0.74,
+"vol_online": 0.74
+},
+{
+"cod_cliente": "1191369",
+"produto": "Del Valle Frut",
+"vol_real": 0.0,
+"vol_online": 1.585
+},
+{
+"cod_cliente": "1191369",
+"produto": "Dv Frut",
+"vol_real": 0.0,
+"vol_online": 1.585
+},
+{
+"cod_cliente": "1191369",
+"produto": "Dv Frut Ms",
+"vol_real": 0.0,
+"vol_online": 1.585
+},
+{
+"cod_cliente": "1191369",
+"produto": "Monster",
+"vol_real": 0.0,
+"vol_online": 0.5
+},
+{
+"cod_cliente": "1191369",
+"produto": "Powerade",
+"vol_real": 0.0,
+"vol_online": 0.53
+},
+{
+"cod_cliente": "1191369",
+"produto": "Still",
+"vol_real": 0.0,
+"vol_online": 2.615
+},
+{
+"cod_cliente": "1191369",
+"produto": "Sucos",
+"vol_real": 0.0,
+"vol_online": 1.585
+},
+{
+"cod_cliente": "1191369",
+"produto": "Agua Mineral",
+"vol_real": 6.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1193749",
+"produto": "Cctm 2l Pet",
+"vol_real": 6.34,
+"vol_online": 4.227
+},
+{
+"cod_cliente": "1193749",
+"produto": "Refri Zero",
+"vol_real": 2.536,
+"vol_online": 1.796
+},
+{
+"cod_cliente": "1193749",
+"produto": "Refrigerantes",
+"vol_real": 18.281,
+"vol_online": 15.428
+},
+{
+"cod_cliente": "1193749",
+"produto": "Refrigerantes Individual",
+"vol_real": 3.487,
+"vol_online": 2.748
+},
+{
+"cod_cliente": "1193749",
+"produto": "Sabores Tt",
+"vol_real": 4.227,
+"vol_online": 4.227
+},
+{
+"cod_cliente": "1193749",
+"produto": "Powerade",
+"vol_real": 0.0,
+"vol_online": 0.53
+},
+{
+"cod_cliente": "1193749",
+"produto": "Still",
+"vol_real": 0.0,
+"vol_online": 0.53
+},
+{
+"cod_cliente": "1193749",
+"produto": "Agua Mineral",
+"vol_real": 6.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1193918",
+"produto": "Cctm 2l Pet",
+"vol_real": 12.68,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1193918",
+"produto": "Refrigerantes",
+"vol_real": 14.16,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1193918",
+"produto": "Refrigerantes Individual",
+"vol_real": 1.479,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1193918",
+"produto": "Kapo",
+"vol_real": 1.68,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1193918",
+"produto": "Still",
+"vol_real": 1.68,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1193918",
+"produto": "Sucos",
+"vol_real": 1.68,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1193918",
+"produto": "Agua Mineral",
+"vol_real": 0.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1194390",
+"produto": "Cervejas",
+"vol_real": 0.042,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1194390",
+"produto": "Cctm 2l Pet",
+"vol_real": 63.402,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1194390",
+"produto": "Kuat Zero",
+"vol_real": 2.483,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1194390",
+"produto": "Kuat Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1194390",
+"produto": "Refri Sabores Zero",
+"vol_real": 4.597,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1194390",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1194390",
+"produto": "Refri Zero",
+"vol_real": 15.798,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1194390",
+"produto": "Refrigerantes",
+"vol_real": 87.442,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1194390",
+"produto": "Refrigerantes Individual",
+"vol_real": 9.246,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1194390",
+"produto": "Sabores Tt",
+"vol_real": 14.952,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1194390",
+"produto": "Sprite",
+"vol_real": 4.597,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1194390",
+"produto": "Dv Néctar",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1194390",
+"produto": "Kapo",
+"vol_real": 1.26,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1194390",
+"produto": "Monster",
+"vol_real": 3.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1194390",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1194390",
+"produto": "Still",
+"vol_real": 6.903,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1194390",
+"produto": "Sucos",
+"vol_real": 3.373,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1194390",
+"produto": "Agua Mineral",
+"vol_real": 6.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1195604",
+"produto": "Ks Tt",
+"vol_real": 2.452,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1195604",
+"produto": "Refri Zero",
+"vol_real": 0.74,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1195604",
+"produto": "Refrigerantes",
+"vol_real": 5.781,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1195604",
+"produto": "Refrigerantes Individual",
+"vol_real": 4.724,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1195604",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 2.452,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1195604",
+"produto": "Dv Néctar",
+"vol_real": 0.613,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1195604",
+"produto": "Kapo",
+"vol_real": 2.52,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1195604",
+"produto": "Still",
+"vol_real": 3.133,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1195604",
+"produto": "Sucos",
+"vol_real": 3.133,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1195687",
+"produto": "Cervejas",
+"vol_real": 0.0,
+"vol_online": 0.126
+},
+{
+"cod_cliente": "1195687",
+"produto": "Cctm 2l Pet",
+"vol_real": 0.0,
+"vol_online": 8.454
+},
+{
+"cod_cliente": "1195687",
+"produto": "Refri Zero",
+"vol_real": 0.0,
+"vol_online": 2.853
+},
+{
+"cod_cliente": "1195687",
+"produto": "Refrigerantes",
+"vol_real": 0.0,
+"vol_online": 10.673
+},
+{
+"cod_cliente": "1195687",
+"produto": "Refrigerantes Individual",
+"vol_real": 0.0,
+"vol_online": 2.219
+},
+{
+"cod_cliente": "1195687",
+"produto": "Del Valle Frut",
+"vol_real": 0.0,
+"vol_online": 1.585
+},
+{
+"cod_cliente": "1195687",
+"produto": "Dv Frut",
+"vol_real": 0.0,
+"vol_online": 1.585
+},
+{
+"cod_cliente": "1195687",
+"produto": "Dv Frut Ms",
+"vol_real": 0.0,
+"vol_online": 1.585
+},
+{
+"cod_cliente": "1195687",
+"produto": "Kapo",
+"vol_real": 0.0,
+"vol_online": 1.26
+},
+{
+"cod_cliente": "1195687",
+"produto": "Still",
+"vol_real": 0.0,
+"vol_online": 2.845
+},
+{
+"cod_cliente": "1195687",
+"produto": "Sucos",
+"vol_real": 0.0,
+"vol_online": 2.845
+},
+{
+"cod_cliente": "1195687",
+"produto": "Agua Mineral",
+"vol_real": 0.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1196961",
+"produto": "Cctm 2l Pet",
+"vol_real": 33.814,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1196961",
+"produto": "Kuat Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1196961",
+"produto": "Kuat Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1196961",
+"produto": "Refri Sabores Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1196961",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1196961",
+"produto": "Refri Zero",
+"vol_real": 10.039,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1196961",
+"produto": "Refrigerantes",
+"vol_real": 56.953,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1196961",
+"produto": "Refrigerantes Individual",
+"vol_real": 6.232,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1196961",
+"produto": "Sabores Tt",
+"vol_real": 17.116,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1196961",
+"produto": "Sprite",
+"vol_real": 0.37,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1196961",
+"produto": "Del Valle Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1196961",
+"produto": "Dv Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1196961",
+"produto": "Dv Frut Ms",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1196961",
+"produto": "Kapo",
+"vol_real": 0.84,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1196961",
+"produto": "Monster",
+"vol_real": 3.999,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1196961",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1196961",
+"produto": "Still",
+"vol_real": 6.954,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1196961",
+"produto": "Sucos",
+"vol_real": 2.425,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1196961",
+"produto": "Agua Mineral",
+"vol_real": 18.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1197009",
+"produto": "Cervejas",
+"vol_real": 0.21,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1197009",
+"produto": "Cctm 2l Pet",
+"vol_real": 19.021,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1197009",
+"produto": "Refri Sabores Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1197009",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1197009",
+"produto": "Refri Zero",
+"vol_real": 9.933,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1197009",
+"produto": "Refrigerantes",
+"vol_real": 51.058,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1197009",
+"produto": "Refrigerantes Individual",
+"vol_real": 6.148,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1197009",
+"produto": "Sabores Tt",
+"vol_real": 26.098,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1197009",
+"produto": "Sprite",
+"vol_real": 10.567,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1197009",
+"produto": "Monster",
+"vol_real": 7.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1197009",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1197009",
+"produto": "Still",
+"vol_real": 7.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1197423",
+"produto": "Cervejas",
+"vol_real": 0.126,
+"vol_online": 0.126
+},
+{
+"cod_cliente": "1197423",
+"produto": "Cctm 2l Pet",
+"vol_real": 14.794,
+"vol_online": 8.454
+},
+{
+"cod_cliente": "1197423",
+"produto": "Refri Zero",
+"vol_real": 3.17,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1197423",
+"produto": "Refrigerantes",
+"vol_real": 23.3,
+"vol_online": 10.303
+},
+{
+"cod_cliente": "1197423",
+"produto": "Refrigerantes Individual",
+"vol_real": 1.11,
+"vol_online": 1.849
+},
+{
+"cod_cliente": "1197423",
+"produto": "Sabores Tt",
+"vol_real": 4.597,
+"vol_online": 1.849
+},
+{
+"cod_cliente": "1197423",
+"produto": "Sprite",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1197423",
+"produto": "Dv Néctar",
+"vol_real": 0.613,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1197423",
+"produto": "Monster",
+"vol_real": 0.0,
+"vol_online": 0.5
+},
+{
+"cod_cliente": "1197423",
+"produto": "Powerade",
+"vol_real": 0.0,
+"vol_online": 0.53
+},
+{
+"cod_cliente": "1197423",
+"produto": "Still",
+"vol_real": 0.613,
+"vol_online": 1.03
+},
+{
+"cod_cliente": "1197423",
+"produto": "Sucos",
+"vol_real": 0.613,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1197423",
+"produto": "Agua Mineral",
+"vol_real": 6.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1198265",
+"produto": "Cctm 2l Pet",
+"vol_real": 8.454,
+"vol_online": 2.113
+},
+{
+"cod_cliente": "1198265",
+"produto": "Ks Tt",
+"vol_real": 0.0,
+"vol_online": 2.452
+},
+{
+"cod_cliente": "1198265",
+"produto": "Kuat Zero",
+"vol_real": 0.0,
+"vol_online": 0.37
+},
+{
+"cod_cliente": "1198265",
+"produto": "Refri Sabores Zero",
+"vol_real": 0.0,
+"vol_online": 0.74
+},
+{
+"cod_cliente": "1198265",
+"produto": "Refri Zero",
+"vol_real": 1.268,
+"vol_online": 4.079
+},
+{
+"cod_cliente": "1198265",
+"produto": "Refrigerantes",
+"vol_real": 20.078,
+"vol_online": 9.891
+},
+{
+"cod_cliente": "1198265",
+"produto": "Refrigerantes Individual",
+"vol_real": 5.284,
+"vol_online": 5.664
+},
+{
+"cod_cliente": "1198265",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 4.227,
+"vol_online": 4.565
+},
+{
+"cod_cliente": "1198265",
+"produto": "Sabores Tt",
+"vol_real": 0.0,
+"vol_online": 0.37
+},
+{
+"cod_cliente": "1198265",
+"produto": "Sprite",
+"vol_real": 0.0,
+"vol_online": 0.37
+},
+{
+"cod_cliente": "1198265",
+"produto": "Del Valle Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1198265",
+"produto": "Dv Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1198265",
+"produto": "Dv Frut Ms",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1198265",
+"produto": "Still",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1198265",
+"produto": "Sucos",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1198265",
+"produto": "Agua Mineral",
+"vol_real": 6.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1199549",
+"produto": "Dest+Art+Cnd",
+"vol_real": 3.6,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1199549",
+"produto": "Destilados",
+"vol_real": 3.6,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1199549",
+"produto": "Dreher",
+"vol_real": 3.6,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1199549",
+"produto": "Cctm 2l Pet",
+"vol_real": 8.454,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1199549",
+"produto": "Refri Zero",
+"vol_real": 3.593,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1199549",
+"produto": "Refrigerantes",
+"vol_real": 14.582,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1199549",
+"produto": "Refrigerantes Individual",
+"vol_real": 2.959,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Artd Ko",
+"vol_real": 1.614,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Dest+Art+Cnd",
+"vol_real": 15.028,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Candies",
+"vol_real": 0.308,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Fini",
+"vol_real": 0.18,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Perfetti Tt",
+"vol_real": 0.128,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Cervejas",
+"vol_real": 0.041,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Cervejas Premium",
+"vol_real": 0.041,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Eisenbahn",
+"vol_real": 0.021,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Sol Premiun",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Aperitivo",
+"vol_real": 11.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Aperol",
+"vol_real": 0.75,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Campari",
+"vol_real": 10.476,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Destilados",
+"vol_real": 13.106,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Dreher",
+"vol_real": 0.9,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Skyy",
+"vol_real": 0.98,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Cctm 2l Pet",
+"vol_real": 133.144,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Kuat Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Kuat Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Refri Sabores Zero",
+"vol_real": 10.567,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 10.567,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Refri Zero",
+"vol_real": 67.629,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Refrigerantes",
+"vol_real": 242.007,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Refrigerantes Individual",
+"vol_real": 27.126,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Sabores Tt",
+"vol_real": 44.91,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Sprite",
+"vol_real": 15.903,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Del Valle Frut",
+"vol_real": 3.17,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Dv Frut",
+"vol_real": 3.17,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Dv Frut Ms",
+"vol_real": 3.17,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Dv Néctar",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Kapo",
+"vol_real": 0.42,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Monster",
+"vol_real": 16.996,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Still",
+"vol_real": 27.456,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Sucos",
+"vol_real": 9.93,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200617",
+"produto": "Agua Mineral",
+"vol_real": 6.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200688",
+"produto": "Cervejas",
+"vol_real": 0.148,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200688",
+"produto": "Cervejas Premium",
+"vol_real": 0.148,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200688",
+"produto": "Eisenbahn",
+"vol_real": 0.128,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200688",
+"produto": "Sol Premiun",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200688",
+"produto": "Refri Sabores Zero",
+"vol_real": 1.479,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200688",
+"produto": "Refri Zero",
+"vol_real": 4.438,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200688",
+"produto": "Refrigerantes",
+"vol_real": 75.925,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200688",
+"produto": "Refrigerantes Individual",
+"vol_real": 7.767,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200688",
+"produto": "Sabores Tt",
+"vol_real": 47.447,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200688",
+"produto": "Sprite",
+"vol_real": 4.755,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200688",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200688",
+"produto": "Still",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1200688",
+"produto": "Agua Mineral",
+"vol_real": 30.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1201335",
+"produto": "Cctm 2l Pet",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1201335",
+"produto": "Ks Tt",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1201335",
+"produto": "Refrigerantes",
+"vol_real": 3.339,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1201335",
+"produto": "Refrigerantes Individual",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1201335",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1201551",
+"produto": "Candies",
+"vol_real": 0.308,
+"vol_online": 0.308
+},
+{
+"cod_cliente": "1201551",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.308,
+"vol_online": 0.308
+},
+{
+"cod_cliente": "1201551",
+"produto": "Fini",
+"vol_real": 0.18,
+"vol_online": 0.18
+},
+{
+"cod_cliente": "1201551",
+"produto": "Perfetti Tt",
+"vol_real": 0.128,
+"vol_online": 0.128
+},
+{
+"cod_cliente": "1201551",
+"produto": "Cctm 2l Pet",
+"vol_real": 2.113,
+"vol_online": 2.113
+},
+{
+"cod_cliente": "1201551",
+"produto": "Refri Zero",
+"vol_real": 0.0,
+"vol_online": 1.057
+},
+{
+"cod_cliente": "1201551",
+"produto": "Refrigerantes",
+"vol_real": 3.91,
+"vol_online": 8.137
+},
+{
+"cod_cliente": "1201551",
+"produto": "Refrigerantes Individual",
+"vol_real": 0.74,
+"vol_online": 0.74
+},
+{
+"cod_cliente": "1201551",
+"produto": "Sabores Tt",
+"vol_real": 0.74,
+"vol_online": 3.17
+},
+{
+"cod_cliente": "1201551",
+"produto": "Powerade",
+"vol_real": 0.0,
+"vol_online": 0.53
+},
+{
+"cod_cliente": "1201551",
+"produto": "Still",
+"vol_real": 0.0,
+"vol_online": 0.53
+},
+{
+"cod_cliente": "1201551",
+"produto": "Agua Mineral",
+"vol_real": 18.0,
+"vol_online": 24.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Cervejas",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Cervejas Premium",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Sol Premiun",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Dest+Art+Cnd",
+"vol_real": 3.6,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Destilados",
+"vol_real": 3.6,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Dreher",
+"vol_real": 3.6,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Cctm 2l Pet",
+"vol_real": 139.484,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Refri Zero",
+"vol_real": 34.184,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Refrigerantes",
+"vol_real": 265.549,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Refrigerantes Individual",
+"vol_real": 20.395,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 65.515,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Sabores Tt",
+"vol_real": 42.796,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Sprite",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Del Valle Frut",
+"vol_real": 17.436,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Dv Frut",
+"vol_real": 17.436,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Dv Frut Ms",
+"vol_real": 17.436,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Dv Néctar",
+"vol_real": 17.52,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Kapo",
+"vol_real": 4.623,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Monster",
+"vol_real": 8.499,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Powerade",
+"vol_real": 1.59,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Still",
+"vol_real": 51.667,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Sucos",
+"vol_real": 39.579,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1202531",
+"produto": "Agua Mineral",
+"vol_real": 6.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1203496",
+"produto": "Cervejas",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1203496",
+"produto": "Cervejas Premium",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1203496",
+"produto": "Sol Premiun",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1203496",
+"produto": "Cctm 2l Pet",
+"vol_real": 105.67,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1203496",
+"produto": "Kuat Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1203496",
+"produto": "Kuat Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1203496",
+"produto": "Refri Sabores Zero",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1203496",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1203496",
+"produto": "Refri Zero",
+"vol_real": 30.962,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1203496",
+"produto": "Refrigerantes",
+"vol_real": 151.795,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1203496",
+"produto": "Refrigerantes Individual",
+"vol_real": 18.651,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1203496",
+"produto": "Sabores Tt",
+"vol_real": 28.901,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1203496",
+"produto": "Sprite",
+"vol_real": 3.751,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1203496",
+"produto": "Del Valle Frut",
+"vol_real": 3.17,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1203496",
+"produto": "Dv Frut",
+"vol_real": 3.17,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1203496",
+"produto": "Dv Frut Ms",
+"vol_real": 3.17,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1203496",
+"produto": "Kapo",
+"vol_real": 1.68,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1203496",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1203496",
+"produto": "Still",
+"vol_real": 5.38,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1203496",
+"produto": "Sucos",
+"vol_real": 4.85,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Cervejas",
+"vol_real": 0.041,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Cervejas Premium",
+"vol_real": 0.041,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Eisenbahn",
+"vol_real": 0.021,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Sol Premiun",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Aperitivo",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Campari",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Destilados",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Cctm 2l Pet",
+"vol_real": 54.948,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Kuat Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Kuat Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Refri Sabores Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Refri Zero",
+"vol_real": 10.356,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Refrigerantes",
+"vol_real": 109.358,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Refrigerantes Individual",
+"vol_real": 12.142,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 8.454,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Sabores Tt",
+"vol_real": 35.399,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Sprite",
+"vol_real": 4.966,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Del Valle Frut",
+"vol_real": 1.057,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Dv Frut",
+"vol_real": 1.057,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Dv Frut Ms",
+"vol_real": 1.057,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Dv Néctar",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Kapo",
+"vol_real": 0.42,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Still",
+"vol_real": 4.12,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1207180",
+"produto": "Sucos",
+"vol_real": 3.59,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209184",
+"produto": "Cctm 2l Pet",
+"vol_real": 21.134,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209184",
+"produto": "Refri Zero",
+"vol_real": 1.479,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209184",
+"produto": "Refrigerantes",
+"vol_real": 31.278,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209184",
+"produto": "Refrigerantes Individual",
+"vol_real": 5.918,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209184",
+"produto": "Sabores Tt",
+"vol_real": 4.966,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209265",
+"produto": "Kuat Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209265",
+"produto": "Kuat Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209265",
+"produto": "Refri Sabores Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209265",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209265",
+"produto": "Refrigerantes",
+"vol_real": 4.966,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209265",
+"produto": "Refrigerantes Individual",
+"vol_real": 0.74,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209265",
+"produto": "Sabores Tt",
+"vol_real": 2.483,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209265",
+"produto": "Sprite",
+"vol_real": 2.483,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209265",
+"produto": "Kapo",
+"vol_real": 0.42,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209265",
+"produto": "Still",
+"vol_real": 0.42,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209265",
+"produto": "Sucos",
+"vol_real": 0.42,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209336",
+"produto": "Candies",
+"vol_real": 0.0,
+"vol_online": 0.18
+},
+{
+"cod_cliente": "1209336",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.0,
+"vol_online": 3.976
+},
+{
+"cod_cliente": "1209336",
+"produto": "Fini",
+"vol_real": 0.0,
+"vol_online": 0.18
+},
+{
+"cod_cliente": "1209336",
+"produto": "Cervejas",
+"vol_real": 0.0,
+"vol_online": 0.144
+},
+{
+"cod_cliente": "1209336",
+"produto": "Cervejas 600ml Retornavel",
+"vol_real": 0.0,
+"vol_online": 0.144
+},
+{
+"cod_cliente": "1209336",
+"produto": "Aperitivo",
+"vol_real": 0.0,
+"vol_online": 1.996
+},
+{
+"cod_cliente": "1209336",
+"produto": "Campari",
+"vol_real": 0.0,
+"vol_online": 1.996
+},
+{
+"cod_cliente": "1209336",
+"produto": "Destilados",
+"vol_real": 0.0,
+"vol_online": 3.796
+},
+{
+"cod_cliente": "1209336",
+"produto": "Dreher",
+"vol_real": 0.0,
+"vol_online": 1.8
+},
+{
+"cod_cliente": "1209336",
+"produto": "Ks Tt",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209336",
+"produto": "Refri Zero",
+"vol_real": 1.479,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209336",
+"produto": "Refrigerantes",
+"vol_real": 19.137,
+"vol_online": 6.34
+},
+{
+"cod_cliente": "1209336",
+"produto": "Refrigerantes Individual",
+"vol_real": 7.513,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209336",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 7.566,
+"vol_online": 6.34
+},
+{
+"cod_cliente": "1209336",
+"produto": "Sabores Tt",
+"vol_real": 1.109,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209336",
+"produto": "Sprite",
+"vol_real": 1.109,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209336",
+"produto": "Dv Néctar",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209336",
+"produto": "Still",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209336",
+"produto": "Sucos",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209336",
+"produto": "Agua Mineral",
+"vol_real": 12.0,
+"vol_online": 36.0
+},
+{
+"cod_cliente": "1209750",
+"produto": "Cervejas",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209750",
+"produto": "Cervejas Premium",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209750",
+"produto": "Sol Premiun",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209750",
+"produto": "Cctm 2l Pet",
+"vol_real": 27.474,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209750",
+"produto": "Refri Zero",
+"vol_real": 5.706,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209750",
+"produto": "Refrigerantes",
+"vol_real": 65.196,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209750",
+"produto": "Refrigerantes Individual",
+"vol_real": 8.134,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209750",
+"produto": "Sabores Tt",
+"vol_real": 31.91,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209750",
+"produto": "Del Valle Frut",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209750",
+"produto": "Dv Frut",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209750",
+"produto": "Dv Frut Ms",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209750",
+"produto": "Dv Néctar",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209750",
+"produto": "Kapo",
+"vol_real": 1.68,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209750",
+"produto": "Monster",
+"vol_real": 2.499,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209750",
+"produto": "Powerade",
+"vol_real": 2.12,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209750",
+"produto": "Still",
+"vol_real": 16.867,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209750",
+"produto": "Sucos",
+"vol_real": 12.248,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209897",
+"produto": "Cctm 2l Pet",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209897",
+"produto": "Refrigerantes",
+"vol_real": 3.593,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209897",
+"produto": "Refrigerantes Individual",
+"vol_real": 1.479,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209897",
+"produto": "Monster",
+"vol_real": 1.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1209897",
+"produto": "Still",
+"vol_real": 1.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1211299",
+"produto": "Artd Ko",
+"vol_real": 0.0,
+"vol_online": 1.614
+},
+{
+"cod_cliente": "1211299",
+"produto": "Dest+Art+Cnd",
+"vol_real": 2.116,
+"vol_online": 2.362
+},
+{
+"cod_cliente": "1211299",
+"produto": "Candies",
+"vol_real": 0.616,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1211299",
+"produto": "Fini",
+"vol_real": 0.36,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1211299",
+"produto": "Perfetti Tt",
+"vol_real": 0.256,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1211299",
+"produto": "Cervejas",
+"vol_real": 0.0,
+"vol_online": 0.164
+},
+{
+"cod_cliente": "1211299",
+"produto": "Cervejas 600ml Retornavel",
+"vol_real": 0.0,
+"vol_online": 0.144
+},
+{
+"cod_cliente": "1211299",
+"produto": "Cervejas Premium",
+"vol_real": 0.0,
+"vol_online": 0.02
+},
+{
+"cod_cliente": "1211299",
+"produto": "Sol Premiun",
+"vol_real": 0.0,
+"vol_online": 0.02
+},
+{
+"cod_cliente": "1211299",
+"produto": "Aperitivo",
+"vol_real": 1.5,
+"vol_online": 0.748
+},
+{
+"cod_cliente": "1211299",
+"produto": "Aperol",
+"vol_real": 1.5,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1211299",
+"produto": "Campari",
+"vol_real": 0.0,
+"vol_online": 0.748
+},
+{
+"cod_cliente": "1211299",
+"produto": "Destilados",
+"vol_real": 1.5,
+"vol_online": 0.748
+},
+{
+"cod_cliente": "1211299",
+"produto": "Cctm 2l Pet",
+"vol_real": 92.99,
+"vol_online": 48.608
+},
+{
+"cod_cliente": "1211299",
+"produto": "Ks Tt",
+"vol_real": 0.0,
+"vol_online": 2.452
+},
+{
+"cod_cliente": "1211299",
+"produto": "Kuat Zero",
+"vol_real": 4.966,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1211299",
+"produto": "Kuat Zero 2l",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1211299",
+"produto": "Refri Sabores Zero",
+"vol_real": 4.966,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1211299",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1211299",
+"produto": "Refri Zero",
+"vol_real": 10.673,
+"vol_online": 5.706
+},
+{
+"cod_cliente": "1211299",
+"produto": "Refrigerantes",
+"vol_real": 145.201,
+"vol_online": 75.523
+},
+{
+"cod_cliente": "1211299",
+"produto": "Refrigerantes Individual",
+"vol_real": 9.944,
+"vol_online": 8.951
+},
+{
+"cod_cliente": "1211299",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 0.0,
+"vol_online": 2.452
+},
+{
+"cod_cliente": "1211299",
+"produto": "Sabores Tt",
+"vol_real": 28.214,
+"vol_online": 15.586
+},
+{
+"cod_cliente": "1211299",
+"produto": "Sprite",
+"vol_real": 4.227,
+"vol_online": 2.483
+},
+{
+"cod_cliente": "1211299",
+"produto": "Del Valle Frut",
+"vol_real": 5.284,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1211299",
+"produto": "Dv Frut",
+"vol_real": 5.284,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1211299",
+"produto": "Dv Frut Ms",
+"vol_real": 5.284,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1211299",
+"produto": "Kapo",
+"vol_real": 0.84,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1211299",
+"produto": "Monster",
+"vol_real": 2.999,
+"vol_online": 2.499
+},
+{
+"cod_cliente": "1211299",
+"produto": "Powerade",
+"vol_real": 2.65,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1211299",
+"produto": "Still",
+"vol_real": 11.772,
+"vol_online": 2.499
+},
+{
+"cod_cliente": "1211299",
+"produto": "Sucos",
+"vol_real": 6.124,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1211299",
+"produto": "Agua Mineral",
+"vol_real": 6.0,
+"vol_online": 42.0
+},
+{
+"cod_cliente": "1211685",
+"produto": "Cctm 2l Pet",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1211685",
+"produto": "Ks Tt",
+"vol_real": 3.678,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1211685",
+"produto": "Refri Zero",
+"vol_real": 10.018,
+"vol_online": 1.057
+},
+{
+"cod_cliente": "1211685",
+"produto": "Refrigerantes",
+"vol_real": 12.132,
+"vol_online": 2.113
+},
+{
+"cod_cliente": "1211685",
+"produto": "Refrigerantes Individual",
+"vol_real": 3.678,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1211685",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 3.678,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1211685",
+"produto": "Del Valle Frut",
+"vol_real": 0.0,
+"vol_online": 3.17
+},
+{
+"cod_cliente": "1211685",
+"produto": "Dv Frut",
+"vol_real": 0.0,
+"vol_online": 3.17
+},
+{
+"cod_cliente": "1211685",
+"produto": "Dv Frut Ms",
+"vol_real": 0.0,
+"vol_online": 3.17
+},
+{
+"cod_cliente": "1211685",
+"produto": "Still",
+"vol_real": 0.0,
+"vol_online": 3.17
+},
+{
+"cod_cliente": "1211685",
+"produto": "Sucos",
+"vol_real": 0.0,
+"vol_online": 3.17
+},
+{
+"cod_cliente": "1212827",
+"produto": "Candies",
+"vol_real": 0.18,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1212827",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.18,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1212827",
+"produto": "Fini",
+"vol_real": 0.18,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1212827",
+"produto": "Refri Zero",
+"vol_real": 0.74,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1212827",
+"produto": "Refrigerantes",
+"vol_real": 0.74,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1212827",
+"produto": "Refrigerantes Individual",
+"vol_real": 0.74,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1212827",
+"produto": "Monster",
+"vol_real": 1.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1212827",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1212827",
+"produto": "Still",
+"vol_real": 1.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1215128",
+"produto": "Ks Tt",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1215128",
+"produto": "Refrigerantes",
+"vol_real": 7.144,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1215128",
+"produto": "Refrigerantes Individual",
+"vol_real": 2.917,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1215128",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 7.144,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1215128",
+"produto": "Agua Mineral",
+"vol_real": 12.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1216146",
+"produto": "Candies",
+"vol_real": 0.128,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1216146",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.878,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1216146",
+"produto": "Perfetti Tt",
+"vol_real": 0.128,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1216146",
+"produto": "Cervejas",
+"vol_real": 0.021,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1216146",
+"produto": "Cervejas Premium",
+"vol_real": 0.021,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1216146",
+"produto": "Eisenbahn",
+"vol_real": 0.021,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1216146",
+"produto": "Aperitivo",
+"vol_real": 0.75,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1216146",
+"produto": "Aperol",
+"vol_real": 0.75,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1216146",
+"produto": "Destilados",
+"vol_real": 0.75,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1216146",
+"produto": "Refri Zero",
+"vol_real": 4.438,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1216146",
+"produto": "Refrigerantes",
+"vol_real": 11.836,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1216146",
+"produto": "Refrigerantes Individual",
+"vol_real": 11.836,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1216146",
+"produto": "Sabores Tt",
+"vol_real": 2.959,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1216146",
+"produto": "Sprite",
+"vol_real": 1.479,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1216146",
+"produto": "Agua Mineral",
+"vol_real": 36.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1217790",
+"produto": "Aperitivo",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1217790",
+"produto": "Campari",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1217790",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1217790",
+"produto": "Destilados",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1217790",
+"produto": "Cctm 2l Pet",
+"vol_real": 14.794,
+"vol_online": 10.567
+},
+{
+"cod_cliente": "1217790",
+"produto": "Ks Tt",
+"vol_real": 0.0,
+"vol_online": 1.226
+},
+{
+"cod_cliente": "1217790",
+"produto": "Refri Zero",
+"vol_real": 5.706,
+"vol_online": 1.479
+},
+{
+"cod_cliente": "1217790",
+"produto": "Refrigerantes",
+"vol_real": 23.142,
+"vol_online": 22.254
+},
+{
+"cod_cliente": "1217790",
+"produto": "Refrigerantes Individual",
+"vol_real": 5.178,
+"vol_online": 6.404
+},
+{
+"cod_cliente": "1217790",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 0.0,
+"vol_online": 1.226
+},
+{
+"cod_cliente": "1217790",
+"produto": "Sabores Tt",
+"vol_real": 0.0,
+"vol_online": 2.113
+},
+{
+"cod_cliente": "1217790",
+"produto": "Sprite",
+"vol_real": 0.0,
+"vol_online": 2.113
+},
+{
+"cod_cliente": "1217790",
+"produto": "Del Valle Frut",
+"vol_real": 0.0,
+"vol_online": 1.585
+},
+{
+"cod_cliente": "1217790",
+"produto": "Dv Frut",
+"vol_real": 0.0,
+"vol_online": 1.585
+},
+{
+"cod_cliente": "1217790",
+"produto": "Dv Frut Ms",
+"vol_real": 0.0,
+"vol_online": 1.585
+},
+{
+"cod_cliente": "1217790",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1217790",
+"produto": "Still",
+"vol_real": 0.53,
+"vol_online": 1.585
+},
+{
+"cod_cliente": "1217790",
+"produto": "Sucos",
+"vol_real": 0.0,
+"vol_online": 1.585
+},
+{
+"cod_cliente": "1217790",
+"produto": "Agua Mineral",
+"vol_real": 0.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1218406",
+"produto": "Cervejas",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1218406",
+"produto": "Cervejas Premium",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1218406",
+"produto": "Sol Premiun",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1218406",
+"produto": "Cctm 2l Pet",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1218406",
+"produto": "Ks Tt",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1218406",
+"produto": "Refri Zero",
+"vol_real": 5.242,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1218406",
+"produto": "Refrigerantes",
+"vol_real": 22.519,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1218406",
+"produto": "Refrigerantes Individual",
+"vol_real": 11.952,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1218406",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 8.412,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1218406",
+"produto": "Sabores Tt",
+"vol_real": 1.109,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1218406",
+"produto": "Sprite",
+"vol_real": 0.37,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1218406",
+"produto": "Del Valle Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1218406",
+"produto": "Dv Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1218406",
+"produto": "Dv Frut Ms",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1218406",
+"produto": "Monster",
+"vol_real": 0.5,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1218406",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1218406",
+"produto": "Still",
+"vol_real": 2.615,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1218406",
+"produto": "Sucos",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221078",
+"produto": "Dest+Art+Cnd",
+"vol_real": 1.8,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221078",
+"produto": "Destilados",
+"vol_real": 1.8,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221078",
+"produto": "Dreher",
+"vol_real": 1.8,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221078",
+"produto": "Cctm 2l Pet",
+"vol_real": 57.062,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221078",
+"produto": "Kuat Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221078",
+"produto": "Kuat Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221078",
+"produto": "Refri Sabores Zero",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221078",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221078",
+"produto": "Refri Zero",
+"vol_real": 24.304,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221078",
+"produto": "Refrigerantes",
+"vol_real": 93.201,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221078",
+"produto": "Refrigerantes Individual",
+"vol_real": 19.232,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221078",
+"produto": "Sabores Tt",
+"vol_real": 14.794,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221078",
+"produto": "Sprite",
+"vol_real": 6.34,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221078",
+"produto": "Dv Néctar",
+"vol_real": 1.057,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221078",
+"produto": "Monster",
+"vol_real": 3.999,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221078",
+"produto": "Still",
+"vol_real": 5.056,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221078",
+"produto": "Sucos",
+"vol_real": 1.057,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221085",
+"produto": "Cctm 2l Pet",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221085",
+"produto": "Ks Tt",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221085",
+"produto": "Refrigerantes",
+"vol_real": 9.098,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221085",
+"produto": "Refrigerantes Individual",
+"vol_real": 3.815,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221085",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221085",
+"produto": "Sabores Tt",
+"vol_real": 0.37,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221085",
+"produto": "Sprite",
+"vol_real": 0.37,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221085",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221085",
+"produto": "Still",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221675",
+"produto": "Cervejas",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221675",
+"produto": "Cervejas Premium",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221675",
+"produto": "Sol Premiun",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221675",
+"produto": "Aperitivo",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221675",
+"produto": "Campari",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221675",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221675",
+"produto": "Destilados",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221675",
+"produto": "Cctm 2l Pet",
+"vol_real": 23.247,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221675",
+"produto": "Refri Zero",
+"vol_real": 1.479,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221675",
+"produto": "Refrigerantes",
+"vol_real": 44.804,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221675",
+"produto": "Refrigerantes Individual",
+"vol_real": 8.876,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221675",
+"produto": "Sabores Tt",
+"vol_real": 12.68,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221675",
+"produto": "Sprite",
+"vol_real": 12.68,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Cervejas",
+"vol_real": 0.041,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Cervejas Premium",
+"vol_real": 0.041,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Eisenbahn",
+"vol_real": 0.021,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Sol Premiun",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Aperitivo",
+"vol_real": 3.992,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Campari",
+"vol_real": 3.992,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Dest+Art+Cnd",
+"vol_real": 3.992,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Destilados",
+"vol_real": 3.992,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Cctm 2l Pet",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Refrigerantes",
+"vol_real": 9.965,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Refrigerantes Individual",
+"vol_real": 2.039,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Sabores Tt",
+"vol_real": 6.921,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Sprite",
+"vol_real": 5.336,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Del Valle Frut",
+"vol_real": 1.057,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Dv Frut",
+"vol_real": 1.057,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Dv Frut Ms",
+"vol_real": 1.057,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Dv Néctar",
+"vol_real": 3.032,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Kapo",
+"vol_real": 1.68,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Monster",
+"vol_real": 7.998,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Powerade",
+"vol_real": 1.59,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Still",
+"vol_real": 15.357,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1221998",
+"produto": "Sucos",
+"vol_real": 5.769,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222042",
+"produto": "Cctm 2l Pet",
+"vol_real": 59.175,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222042",
+"produto": "Kuat Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222042",
+"produto": "Kuat Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222042",
+"produto": "Refri Sabores Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222042",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222042",
+"produto": "Refri Zero",
+"vol_real": 7.08,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222042",
+"produto": "Refrigerantes",
+"vol_real": 136.684,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222042",
+"produto": "Refrigerantes Individual",
+"vol_real": 11.994,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222042",
+"produto": "Sabores Tt",
+"vol_real": 67.47,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222042",
+"produto": "Sprite",
+"vol_real": 10.937,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222042",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222042",
+"produto": "Still",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222144",
+"produto": "Cervejas",
+"vol_real": 0.042,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222144",
+"produto": "Cervejas Premium",
+"vol_real": 0.042,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222144",
+"produto": "Sol Premiun",
+"vol_real": 0.042,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222144",
+"produto": "Aperitivo",
+"vol_real": 0.75,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222144",
+"produto": "Aperol",
+"vol_real": 0.75,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222144",
+"produto": "Dest+Art+Cnd",
+"vol_real": 2.85,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222144",
+"produto": "Destilados",
+"vol_real": 2.85,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222144",
+"produto": "Refri Zero",
+"vol_real": 1.268,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222144",
+"produto": "Refrigerantes",
+"vol_real": 3.646,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222144",
+"produto": "Refrigerantes Individual",
+"vol_real": 3.646,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222144",
+"produto": "Sabores Tt",
+"vol_real": 0.74,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222835",
+"produto": "Candies",
+"vol_real": 1.08,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222835",
+"produto": "Dest+Art+Cnd",
+"vol_real": 1.08,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222835",
+"produto": "Fini",
+"vol_real": 1.08,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222835",
+"produto": "Cervejas",
+"vol_real": 0.079,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222835",
+"produto": "Cervejas Premium",
+"vol_real": 0.079,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222835",
+"produto": "Sol Premiun",
+"vol_real": 0.079,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222835",
+"produto": "Cctm 2l Pet",
+"vol_real": 29.588,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222835",
+"produto": "Refri Sabores Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222835",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222835",
+"produto": "Refri Zero",
+"vol_real": 12.046,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222835",
+"produto": "Refrigerantes",
+"vol_real": 47.023,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222835",
+"produto": "Refrigerantes Individual",
+"vol_real": 8.982,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222835",
+"produto": "Sabores Tt",
+"vol_real": 9.933,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222835",
+"produto": "Sprite",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222835",
+"produto": "Dv Néctar",
+"vol_real": 5.284,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222835",
+"produto": "Kapo",
+"vol_real": 1.68,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222835",
+"produto": "Still",
+"vol_real": 6.963,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1222835",
+"produto": "Sucos",
+"vol_real": 6.963,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223065",
+"produto": "Artd Ko",
+"vol_real": 1.5,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223065",
+"produto": "Dest+Art+Cnd",
+"vol_real": 1.5,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223065",
+"produto": "Cervejas",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223065",
+"produto": "Cervejas Premium",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223065",
+"produto": "Sol Premiun",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223065",
+"produto": "Cctm 2l Pet",
+"vol_real": 10.567,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223065",
+"produto": "Ks Tt",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223065",
+"produto": "Kuat Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223065",
+"produto": "Kuat Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223065",
+"produto": "Refri Sabores Zero",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223065",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223065",
+"produto": "Refri Zero",
+"vol_real": 2.219,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223065",
+"produto": "Refrigerantes",
+"vol_real": 40.536,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223065",
+"produto": "Refrigerantes Individual",
+"vol_real": 10.948,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223065",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 5.453,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223065",
+"produto": "Sabores Tt",
+"vol_real": 11.201,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223065",
+"produto": "Sprite",
+"vol_real": 2.483,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223065",
+"produto": "Agua Mineral",
+"vol_real": 6.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223255",
+"produto": "Candies",
+"vol_real": 0.0,
+"vol_online": 0.128
+},
+{
+"cod_cliente": "1223255",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.0,
+"vol_online": 0.128
+},
+{
+"cod_cliente": "1223255",
+"produto": "Perfetti Tt",
+"vol_real": 0.0,
+"vol_online": 0.128
+},
+{
+"cod_cliente": "1223255",
+"produto": "Ks Tt",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223255",
+"produto": "Refri Sabores Zero",
+"vol_real": 0.0,
+"vol_online": 0.74
+},
+{
+"cod_cliente": "1223255",
+"produto": "Refri Zero",
+"vol_real": 2.008,
+"vol_online": 4.755
+},
+{
+"cod_cliente": "1223255",
+"produto": "Refrigerantes",
+"vol_real": 13.431,
+"vol_online": 13.42
+},
+{
+"cod_cliente": "1223255",
+"produto": "Refrigerantes Individual",
+"vol_real": 7.091,
+"vol_online": 10.25
+},
+{
+"cod_cliente": "1223255",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223255",
+"produto": "Sabores Tt",
+"vol_real": 3.223,
+"vol_online": 1.479
+},
+{
+"cod_cliente": "1223255",
+"produto": "Sprite",
+"vol_real": 0.37,
+"vol_online": 1.479
+},
+{
+"cod_cliente": "1223255",
+"produto": "Del Valle Frut",
+"vol_real": 0.0,
+"vol_online": 1.585
+},
+{
+"cod_cliente": "1223255",
+"produto": "Dv Frut",
+"vol_real": 0.0,
+"vol_online": 1.585
+},
+{
+"cod_cliente": "1223255",
+"produto": "Dv Frut Ms",
+"vol_real": 0.0,
+"vol_online": 1.585
+},
+{
+"cod_cliente": "1223255",
+"produto": "Still",
+"vol_real": 0.0,
+"vol_online": 1.585
+},
+{
+"cod_cliente": "1223255",
+"produto": "Sucos",
+"vol_real": 0.0,
+"vol_online": 1.585
+},
+{
+"cod_cliente": "1223255",
+"produto": "Agua Mineral",
+"vol_real": 6.0,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Candies",
+"vol_real": 0.308,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Dest+Art+Cnd",
+"vol_real": 2.056,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Fini",
+"vol_real": 0.18,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Perfetti Tt",
+"vol_real": 0.128,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Cervejas",
+"vol_real": 0.041,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Cervejas Premium",
+"vol_real": 0.041,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Eisenbahn",
+"vol_real": 0.021,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Sol Premiun",
+"vol_real": 0.02,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Aperitivo",
+"vol_real": 1.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Aperol",
+"vol_real": 0.75,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Campari",
+"vol_real": 0.998,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Destilados",
+"vol_real": 1.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Cctm 2l Pet",
+"vol_real": 78.196,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Refri Sabores Zero",
+"vol_real": 16.907,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Refri Sabores Zero 2l",
+"vol_real": 16.907,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Refri Zero",
+"vol_real": 50.829,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Refrigerantes",
+"vol_real": 346.18,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Refrigerantes Individual",
+"vol_real": 17.079,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 67.629,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Sabores Tt",
+"vol_real": 84.114,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Sprite",
+"vol_real": 15.85,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Del Valle Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Dv Frut",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Dv Frut Ms",
+"vol_real": 1.585,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Dv Néctar",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Kapo",
+"vol_real": 0.42,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Monster",
+"vol_real": 9.996,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Still",
+"vol_real": 14.645,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Sucos",
+"vol_real": 4.119,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223604",
+"produto": "Agua Mineral",
+"vol_real": 178.8,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223619",
+"produto": "Candies",
+"vol_real": 0.0,
+"vol_online": 0.308
+},
+{
+"cod_cliente": "1223619",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.0,
+"vol_online": 0.308
+},
+{
+"cod_cliente": "1223619",
+"produto": "Fini",
+"vol_real": 0.0,
+"vol_online": 0.18
+},
+{
+"cod_cliente": "1223619",
+"produto": "Perfetti Tt",
+"vol_real": 0.0,
+"vol_online": 0.128
+},
+{
+"cod_cliente": "1223619",
+"produto": "Refri Zero",
+"vol_real": 0.0,
+"vol_online": 0.74
+},
+{
+"cod_cliente": "1223619",
+"produto": "Refrigerantes",
+"vol_real": 3.17,
+"vol_online": 2.272
+},
+{
+"cod_cliente": "1223619",
+"produto": "Refrigerantes Individual",
+"vol_real": 3.17,
+"vol_online": 2.272
+},
+{
+"cod_cliente": "1223619",
+"produto": "Sabores Tt",
+"vol_real": 0.74,
+"vol_online": 0.37
+},
+{
+"cod_cliente": "1223619",
+"produto": "Sprite",
+"vol_real": 0.0,
+"vol_online": 0.37
+},
+{
+"cod_cliente": "1223619",
+"produto": "Kapo",
+"vol_real": 0.84,
+"vol_online": 0.84
+},
+{
+"cod_cliente": "1223619",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223619",
+"produto": "Still",
+"vol_real": 1.37,
+"vol_online": 0.84
+},
+{
+"cod_cliente": "1223619",
+"produto": "Sucos",
+"vol_real": 0.84,
+"vol_online": 0.84
+},
+{
+"cod_cliente": "1223619",
+"produto": "Agua Mineral",
+"vol_real": 0.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1223985",
+"produto": "Aperitivo",
+"vol_real": 5.25,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223985",
+"produto": "Aperol",
+"vol_real": 5.25,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223985",
+"produto": "Dest+Art+Cnd",
+"vol_real": 5.25,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223985",
+"produto": "Destilados",
+"vol_real": 5.25,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223985",
+"produto": "Refri Zero",
+"vol_real": 2.959,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223985",
+"produto": "Refrigerantes",
+"vol_real": 9.616,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1223985",
+"produto": "Refrigerantes Individual",
+"vol_real": 9.616,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1224354",
+"produto": "Refrigerantes",
+"vol_real": 11.095,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1224354",
+"produto": "Refrigerantes Individual",
+"vol_real": 11.095,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1225331",
+"produto": "Agua Mineral",
+"vol_real": 0.0,
+"vol_online": 6.0
+},
+{
+"cod_cliente": "1225661",
+"produto": "Candies",
+"vol_real": 0.98,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1225661",
+"produto": "Dest+Art+Cnd",
+"vol_real": 0.98,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1225661",
+"produto": "Fini",
+"vol_real": 0.18,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1225661",
+"produto": "Perfetti Tt",
+"vol_real": 0.8,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1225661",
+"produto": "Cctm 2l Pet",
+"vol_real": 2.113,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1225661",
+"produto": "Ks Tt",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1225661",
+"produto": "Refrigerantes",
+"vol_real": 9.521,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1225661",
+"produto": "Refrigerantes Individual",
+"vol_real": 5.295,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1225661",
+"produto": "Refrigerantes Retornavel",
+"vol_real": 1.226,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1225661",
+"produto": "Sabores Tt",
+"vol_real": 1.11,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1225661",
+"produto": "Monster",
+"vol_real": 0.5,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1225661",
+"produto": "Still",
+"vol_real": 1.134,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1226102",
+"produto": "Cervejas",
+"vol_real": 0.126,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1226102",
+"produto": "Aperitivo",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1226102",
+"produto": "Campari",
+"vol_real": 0.748,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1226102",
+"produto": "Dest+Art+Cnd",
+"vol_real": 1.648,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1226102",
+"produto": "Destilados",
+"vol_real": 1.648,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1226102",
+"produto": "Dreher",
+"vol_real": 0.9,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1226102",
+"produto": "Cctm 2l Pet",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1226102",
+"produto": "Refrigerantes",
+"vol_real": 5.706,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1226102",
+"produto": "Refrigerantes Individual",
+"vol_real": 1.479,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1226102",
+"produto": "Powerade",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1226102",
+"produto": "Still",
+"vol_real": 0.53,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1226370",
+"produto": "Cervejas",
+"vol_real": 0.144,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1226370",
+"produto": "Cervejas 600ml Retornavel",
+"vol_real": 0.144,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1226370",
+"produto": "Aperitivo",
+"vol_real": 1.996,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1226370",
+"produto": "Campari",
+"vol_real": 1.996,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1226370",
+"produto": "Dest+Art+Cnd",
+"vol_real": 1.996,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1226370",
+"produto": "Destilados",
+"vol_real": 1.996,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1226370",
+"produto": "Cctm 2l Pet",
+"vol_real": 4.227,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1226370",
+"produto": "Refrigerantes",
+"vol_real": 5.389,
+"vol_online": 0.0
+},
+{
+"cod_cliente": "1226370",
+"produto": "Refrigerantes Individual",
+"vol_real": 1.162,
+"vol_online": 0.0
+}
+]
