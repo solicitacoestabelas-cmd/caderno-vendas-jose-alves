@@ -12,19 +12,36 @@ const CadernoData = (() => {
   let _fatoKA = null;
   let _calendario = null;
   let _resumo = null;
+  let _grupoEspecieOrder = null;
+  const _clienteProdutoCache = new Map();
 
   async function loadAll() {
-    const [hier, fp, fc, ka, cal, res] = await Promise.all([
+    const [hier, fp, fc, ka, cal, res, ge] = await Promise.all([
       fetch(`${DATA_BASE}/dim_hierarquia.json`).then(r => r.json()),
       fetch(`${DATA_BASE}/fato_produto.json`).then(r => r.json()),
       fetch(`${DATA_BASE}/fato_cliente.json`).then(r => r.json()),
       fetch(`${DATA_BASE}/fato_keyaccount.json`).then(r => r.json()),
       fetch(`${DATA_BASE}/calendario.json`).then(r => r.json()),
       fetch(`${DATA_BASE}/resumo.json`).then(r => r.json()),
+      fetch(`${DATA_BASE}/dim_grupo_especie.json`).then(r => r.json()),
     ]);
     _hierarquia = hier; _fatoProduto = fp; _fatoCliente = fc;
-    _fatoKA = ka; _calendario = cal; _resumo = res;
-    return { hier, fp, fc, ka, cal, res };
+    _fatoKA = ka; _calendario = cal; _resumo = res; _grupoEspecieOrder = ge;
+    return { hier, fp, fc, ka, cal, res, ge };
+  }
+
+  // Carrega sob demanda a matriz esparsa cliente x produto de UMA rota
+  // (usada só pelo gerador de PDF). Resultado fica em cache na sessão.
+  async function loadClienteProdutoDaRota(rota) {
+    if (_clienteProdutoCache.has(rota)) return _clienteProdutoCache.get(rota);
+    const safe = encodeURIComponent(rota);
+    let rows = [];
+    try {
+      const r = await fetch(`${DATA_BASE}/cliente_produto/${safe}.json`);
+      if (r.ok) rows = await r.json();
+    } catch (e) { rows = []; }
+    _clienteProdutoCache.set(rota, rows);
+    return rows;
   }
 
   const get = () => ({
@@ -34,6 +51,7 @@ const CadernoData = (() => {
     fatoKA: _fatoKA,
     calendario: _calendario,
     resumo: _resumo,
+    grupoEspecieOrder: _grupoEspecieOrder,
   });
 
   // -------- Formatação PT-BR --------
@@ -99,15 +117,32 @@ const CadernoData = (() => {
   }
 
   // -------- Filtragem do fato_produto --------
-  function filterProduto({ gcAgrupada, gc, supervisao, rota, produto } = {}) {
+  function filterProduto({ gcAgrupada, gc, supervisao, rota, produto, grupoEspecie } = {}) {
     return _fatoProduto.filter(r => {
       if (gcAgrupada && r.gc_agrupada !== gcAgrupada) return false;
       if (gc && r.gc !== gc) return false;
       if (supervisao && r.supervisao !== supervisao) return false;
       if (rota && r.rota !== rota) return false;
       if (produto && r.produto !== produto) return false;
+      if (grupoEspecie && r.grupo_especie !== grupoEspecie) return false;
       return true;
     });
+  }
+
+  // Lista de Agrupador Produto na ordem fixa de Grupo Espécie (ordem de faturamento),
+  // e alfabética dentro de cada grupo. Opcionalmente restrita a um Grupo Espécie.
+  function getProdutosOrdenados(grupoEspecie) {
+    const porProduto = new Map();
+    for (const r of _fatoProduto) {
+      if (!r.produto) continue;
+      if (grupoEspecie && r.grupo_especie !== grupoEspecie) continue;
+      if (!porProduto.has(r.produto)) porProduto.set(r.produto, r.grupo_especie || 'Outros');
+    }
+    const ordem = _grupoEspecieOrder || [];
+    const rank = g => { const i = ordem.indexOf(g); return i === -1 ? ordem.length : i; };
+    return [...porProduto.entries()]
+      .sort((a, b) => rank(a[1]) - rank(b[1]) || a[0].localeCompare(b[0]))
+      .map(([produto, grupo]) => ({ produto, grupo_especie: grupo }));
   }
 
   function filterCliente({ gcAgrupada, gc, supervisao, rota } = {}) {
@@ -125,6 +160,7 @@ const CadernoData = (() => {
     const out = {
       meta_v: 0, real_v: 0, tendencia: 0, fat_real: 0, fat_online: 0,
       vol_online: 0, cobertura_real: 0, cobertura_online: 0, meta_c: 0,
+      meta_dia_v: 0, meta_dia_c: 0,
       n_rotas: new Set(), n_produtos: new Set(),
     };
     for (const r of rows) {
@@ -137,6 +173,8 @@ const CadernoData = (() => {
       out.cobertura_real += r.cobertura_real || 0;
       out.cobertura_online += r.cobertura_online || 0;
       out.meta_c += r.meta_c || 0;
+      out.meta_dia_v += r.meta_dia_v || 0;
+      out.meta_dia_c += r.meta_dia_c || 0;
       out.n_rotas.add(r.rota);
       out.n_produtos.add(r.produto);
     }
@@ -145,6 +183,19 @@ const CadernoData = (() => {
     out.real_x_meta = out.real_v - out.meta_v;
     out.qtd_rotas = out.n_rotas.size;
     out.qtd_produtos = out.n_produtos.size;
+
+    // ---- Blocos estilo SAP: Volume e Cobertura, cada um com
+    // Meta / Real+Online / Dif TT / Meta Dia / Online / Dif Meta Dia / % ----
+    out.real_online_v = out.real_v + out.vol_online;
+    out.dif_tt_v = out.real_online_v - out.meta_v;
+    out.dif_meta_dia_v = out.vol_online - out.meta_dia_v;
+    out.pct_v = out.meta_v ? out.real_online_v / out.meta_v : null;
+
+    out.real_online_c = out.cobertura_real + out.cobertura_online;
+    out.dif_tt_c = out.real_online_c - out.meta_c;
+    out.dif_meta_dia_c = out.cobertura_online - out.meta_dia_c;
+    out.pct_c = out.meta_c ? out.real_online_c / out.meta_c : null;
+
     return out;
   }
 
@@ -174,11 +225,19 @@ const CadernoData = (() => {
     };
   }
 
+  function getGrupoEspecieOptions() {
+    const presentes = new Set(_fatoProduto.map(r => r.grupo_especie).filter(Boolean));
+    const ordem = _grupoEspecieOrder || [];
+    const emOrdem = ordem.filter(g => presentes.has(g));
+    const extras = [...presentes].filter(g => !ordem.includes(g)).sort();
+    return [...emOrdem, ...extras];
+  }
+
   return {
-    loadAll, get,
+    loadAll, get, loadClienteProdutoDaRota,
     fmtInt, fmtNum, fmtPct, fmtMoney, fmtSigned,
     getGerenciasAgrupadas, getGerenciasCruas, getAllGerenciasCruas,
-    getSupervisoes, getRotas,
+    getSupervisoes, getRotas, getProdutosOrdenados, getGrupoEspecieOptions,
     findGcAgrupadaOfCrua, findGcCruaOfSupervisao, findSupervisaoOfRota,
     filterProduto, filterCliente,
     aggregate, aggregateByKey, clientStats,

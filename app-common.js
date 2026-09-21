@@ -46,6 +46,55 @@ const UI = (() => {
     return palette.bad;
   }
 
+  // ---- Blocos Volume / Cobertura (estilo SAP: Meta, Real+Online, Dif TT,
+  // Meta Dia, Online, Dif Meta Dia, %) — usados nas tabelas de Grupos de
+  // Produto e de Ranking, alternáveis por abas. ----
+  function metricCols(kind) {
+    if (kind === 'c') {
+      return [
+        { key: 'meta_c', label: 'Meta Cob.' },
+        { key: 'real_online_c', label: 'Real+Online' },
+        { key: 'dif_tt_c', label: 'Dif TT', signed: true },
+        { key: 'meta_dia_c', label: 'Meta Dia' },
+        { key: 'cobertura_online', label: 'Online' },
+        { key: 'dif_meta_dia_c', label: 'Dif Meta Dia', signed: true },
+        { key: 'pct_c', label: '%', pct: true },
+      ];
+    }
+    return [
+      { key: 'meta_v', label: 'Meta Vol.' },
+      { key: 'real_online_v', label: 'Real+Online' },
+      { key: 'dif_tt_v', label: 'Dif TT', signed: true },
+      { key: 'meta_dia_v', label: 'Meta Dia' },
+      { key: 'vol_online', label: 'Online' },
+      { key: 'dif_meta_dia_v', label: 'Dif Meta Dia', signed: true },
+      { key: 'pct_v', label: '%', pct: true },
+    ];
+  }
+  function metricHeadHtml(kind, firstLabel, firstKey = 'key') {
+    return `<th data-key="${firstKey}">${firstLabel}</th>` +
+      metricCols(kind).map(c => `<th data-key="${c.key}" class="right">${c.label}</th>`).join('');
+  }
+  function metricRowHtml(r, kind) {
+    return metricCols(kind).map(c => {
+      const v = r[c.key];
+      if (c.pct) return `<td class="right">${pctPill(v)}</td>`;
+      if (c.signed) return `<td class="right mono ${(v || 0) < 0 ? 'tag-neg' : 'tag-pos'}">${CadernoData.fmtSigned(v, 0)}</td>`;
+      return `<td class="right mono">${CadernoData.fmtInt(v)}</td>`;
+    }).join('');
+  }
+  function viewToggleHtml(current, name) {
+    return `<div class="view-toggle" data-toggle="${name}">
+      <button class="btn sm ${current === 'v' ? '' : 'ghost'}" data-val="v">Volume</button>
+      <button class="btn sm ${current === 'c' ? '' : 'ghost'}" data-val="c">Cobertura</button>
+    </div>`;
+  }
+  function wireViewToggle(container, name, onChange) {
+    container.querySelectorAll(`[data-toggle="${name}"] button`).forEach(btn => {
+      btn.addEventListener('click', () => onChange(btn.dataset.val));
+    });
+  }
+
   function sortableTable(tableEl, getRows, renderRow, defaultSortKey, defaultDir = -1) {
     let sortKey = defaultSortKey;
     let dir = defaultDir;
@@ -70,5 +119,8 @@ const UI = (() => {
     return { draw, setSort: (k, d) => { sortKey = k; dir = d; draw(); } };
   }
 
-  return { fillSelect, pctClass, pctPill, palette, barColorForPct, sortableTable };
+  return {
+    fillSelect, pctClass, pctPill, palette, barColorForPct, sortableTable,
+    metricCols, metricHeadHtml, metricRowHtml, viewToggleHtml, wireViewToggle,
+  };
 })();

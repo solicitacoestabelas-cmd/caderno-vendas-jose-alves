@@ -12,16 +12,22 @@
     `Dia útil ${calendario.dias_uteis - calendario.dias_restantes} de ${calendario.dias_uteis} · ` +
     `${calendario.dias_corridos} dias corridos · ${calendario.dias_restantes} restantes`;
 
-  const state = { gc: '', supervisao: '', rota: '', produto: '' };
+  const state = { gc: '', supervisao: '', rota: '', grupoEspecie: '', produto: '', viewMetric: 'v' };
 
   const selGc = document.getElementById('fGc');
   const selSv = document.getElementById('fSv');
   const selRota = document.getElementById('fRota');
+  const selGrupoEspecie = document.getElementById('fGrupoEspecie');
   const selProduto = document.getElementById('fProduto');
 
   UI.fillSelect(selGc, CadernoData.getAllGerenciasCruas(), 'Selecione');
-  const produtos = [...new Set(CadernoData.get().fatoProduto.map(r => r.produto))].sort();
-  UI.fillSelect(selProduto, produtos, 'Todos');
+  UI.fillSelect(selGrupoEspecie, CadernoData.getGrupoEspecieOptions(), 'Todos');
+  refreshProdutoOptions();
+
+  function refreshProdutoOptions() {
+    const produtos = CadernoData.getProdutosOrdenados(state.grupoEspecie || undefined).map(p => p.produto);
+    UI.fillSelect(selProduto, produtos, 'Todos');
+  }
 
   function refreshDependentSelects() {
     if (state.gc) UI.fillSelect(selSv, CadernoData.getSupervisoes(state.gc), 'Selecione');
@@ -39,12 +45,27 @@
     refreshDependentSelects(); render();
   });
   selRota.addEventListener('change', () => { state.rota = selRota.value; render(); });
+  selGrupoEspecie.addEventListener('change', () => {
+    state.grupoEspecie = selGrupoEspecie.value;
+    state.produto = ''; selProduto.value = '';
+    refreshProdutoOptions();
+    render();
+  });
   selProduto.addEventListener('change', () => { state.produto = selProduto.value; render(); });
   document.getElementById('btnClear').addEventListener('click', () => {
-    state.gc = state.supervisao = state.rota = state.produto = '';
-    selProduto.value = '';
-    refreshDependentSelects(); render();
+    state.gc = state.supervisao = state.rota = state.grupoEspecie = state.produto = '';
+    selGrupoEspecie.value = ''; selProduto.value = '';
+    refreshDependentSelects(); refreshProdutoOptions(); render();
   });
+
+  // Quando o Consultor está vendo a Supervisão inteira (todas as rotas dela),
+  // mostra qual Rota está puxando a média para baixo — mesmo espírito do
+  // dashboard de Gestão, só que na escala do consultor.
+  function acharArrasto(rows) {
+    const candidatos = rows.filter(r => r.meta_v > 0 && r.real_x_meta < 0);
+    if (candidatos.length < 2) return null;
+    return candidatos.slice().sort((a, b) => a.real_x_meta - b.real_x_meta)[0];
+  }
 
   function render() {
     if (!state.rota && !state.supervisao && !state.gc) {
@@ -65,17 +86,37 @@
 
     const label = state.rota ? `Rota ${state.rota}` : (state.supervisao || state.gc);
 
+    // Ranking por rota só faz sentido quando não há uma rota específica escolhida
+    let rankingRotas = [];
+    let arrasto = null;
+    if (!state.rota) {
+      const campoAgrup = state.supervisao ? 'rota' : 'supervisao';
+      const rowsBase = CadernoData.filterProduto({ gc: state.gc, supervisao: state.supervisao, grupoEspecie: state.grupoEspecie, produto: state.produto });
+      rankingRotas = CadernoData.aggregateByKey(rowsBase, r => r[campoAgrup])
+        .filter(r => r.key)
+        .sort((a, b) => (a.pct_atingimento ?? -1) - (b.pct_atingimento ?? -1));
+      arrasto = acharArrasto(rankingRotas);
+    }
+
     app.innerHTML = `
       <div class="kpi-grid">
         ${kpiCard('Meta do Mês (Vol.)', CadernoData.fmtNum(agg.meta_v), `${CadernoData.fmtInt(agg.qtd_rotas)} rota(s)`)}
-        ${kpiCard('Realizado (D-1)', CadernoData.fmtNum(agg.real_v), null, barPct(agg.pct_atingimento))}
-        ${kpiCard('Atingimento', CadernoData.fmtPct(agg.pct_atingimento), signedSub(agg.real_x_meta))}
+        ${kpiCard('Realizado + Online', CadernoData.fmtNum(agg.real_online_v), null, barPct(agg.pct_v))}
+        ${kpiCard('Atingimento', CadernoData.fmtPct(agg.pct_v), signedSub(agg.dif_tt_v))}
         ${kpiCard('Tendência de Fechamento', CadernoData.fmtNum(agg.tendencia), pctSub(agg.pct_tendencia, 'da meta'))}
-        ${kpiCard('Venda Online (hoje)', CadernoData.fmtNum(agg.vol_online), CadernoData.fmtMoney(agg.fat_online))}
+        ${kpiCard('Venda Online (hoje)', CadernoData.fmtNum(agg.vol_online, 0), `Meta dia: ${CadernoData.fmtNum(agg.meta_dia_v, 0)}`)}
         ${kpiCard('Positivação (D-1)', `${CadernoData.fmtInt(cstats.positivadosReal)} / ${CadernoData.fmtInt(cstats.total)}`, pctSub(cstats.pctPositivacao, 'da carteira'))}
         ${kpiCard('Giro Zero', CadernoData.fmtInt(cstats.giroZero), cstats.total ? CadernoData.fmtPct(cstats.giroZero / cstats.total) + ' da carteira' : null, null, true)}
-        ${kpiCard('Meta de Cobertura', CadernoData.fmtInt(agg.meta_c), `Real: ${CadernoData.fmtInt(agg.cobertura_real)}`)}
+        ${kpiCard('Meta de Cobertura', CadernoData.fmtInt(agg.meta_c), `Real+Online: ${CadernoData.fmtInt(agg.real_online_c)}`, barPct(agg.pct_c))}
       </div>
+
+      ${arrasto ? `
+      <div class="drag-callout">
+        <span class="ico">⚠️</span>
+        <div><b>${state.supervisao ? 'Rota' : 'Supervisão'} ${arrasto.key}</b> é quem mais puxa
+        ${state.supervisao ? 'a Supervisão' : 'a Gerência'} para baixo —
+        ${CadernoData.fmtSigned(arrasto.real_x_meta, 0)} vs meta (${CadernoData.fmtPct(arrasto.pct_atingimento)} de atingimento).</div>
+      </div>` : ''}
 
       <div class="grid-2">
         <div class="panel">
@@ -91,18 +132,16 @@
       </div>
 
       <div class="panel" style="margin-bottom:16px">
-        <h3>Grupos de Produto <span class="badge-count">${porProduto.length}</span></h3>
-        <div class="table-scroll">
+        <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px">
+          <div>
+            <h3 style="margin-bottom:2px">Grupos de Produto <span class="badge-count">${porProduto.length}</span></h3>
+            <div class="panel-sub" style="margin-bottom:0">Clique nos cabeçalhos para ordenar</div>
+          </div>
+          ${UI.viewToggleHtml(state.viewMetric, 'produto')}
+        </div>
+        <div class="table-scroll" style="margin-top:12px">
           <table class="data" id="tblProduto">
-            <thead><tr>
-              <th data-key="key">Grupo de Produto</th>
-              <th data-key="meta_v" class="right">Meta</th>
-              <th data-key="real_v" class="right">Real</th>
-              <th data-key="real_x_meta" class="right">Real x Meta</th>
-              <th data-key="pct_atingimento" class="right">%</th>
-              <th data-key="tendencia" class="right">Tendência</th>
-              <th data-key="cobertura_real" class="right">Cobertura</th>
-            </tr></thead>
+            <thead><tr>${UI.metricHeadHtml(state.viewMetric, 'Grupo de Produto')}</tr></thead>
             <tbody></tbody>
           </table>
         </div>
@@ -126,6 +165,8 @@
         </div>
       </div>
     `;
+
+    UI.wireViewToggle(app, 'produto', (v) => { state.viewMetric = v; render(); });
 
     const GAP_CAP = 150;
     const gapReal = porProduto.map(r => (r.pct_atingimento ?? 0) * 100);
@@ -155,23 +196,15 @@
     });
 
     const tblProduto = document.getElementById('tblProduto');
-    UI.sortableTable(tblProduto, () => porProduto, rowProduto, 'pct_atingimento', 1).draw();
+    UI.sortableTable(tblProduto, () => porProduto, r => rowMetric(r, state.viewMetric), 'pct_atingimento', 1).draw();
 
     const tblClientes = document.getElementById('tblClientes');
     const clientesOrdenados = rowsCliente.slice().sort((a, b) => Number(a.positivado_real) - Number(b.positivado_real));
     UI.sortableTable(tblClientes, () => clientesOrdenados, rowCliente, 'positivado_real', 1).draw();
   }
 
-  function rowProduto(r) {
-    return `<tr>
-      <td>${r.key}</td>
-      <td class="right mono">${CadernoData.fmtNum(r.meta_v)}</td>
-      <td class="right mono">${CadernoData.fmtNum(r.real_v)}</td>
-      <td class="right mono ${r.real_x_meta < 0 ? 'tag-neg' : 'tag-pos'}">${CadernoData.fmtSigned(r.real_x_meta)}</td>
-      <td class="right">${UI.pctPill(r.pct_atingimento)}</td>
-      <td class="right mono">${CadernoData.fmtNum(r.tendencia)}</td>
-      <td class="right mono">${CadernoData.fmtInt(r.cobertura_real)}</td>
-    </tr>`;
+  function rowMetric(r, kind) {
+    return `<tr><td>${r.key}</td>${UI.metricRowHtml(r, kind)}</tr>`;
   }
   function rowCliente(c) {
     return `<tr>

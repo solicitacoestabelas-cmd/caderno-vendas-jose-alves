@@ -12,7 +12,7 @@
 
 <div class="topbar">
   <div class="im-badge"><img src="./assets/im-logo.png" alt="IM"></div>
-  <div class="brand-ko">Coca-Cola</div>
+  <div class="brand-ko"><img src="./assets/coca-cola-logo.png" alt="Coca-Cola"></div>
   <div class="brand-sep"></div>
   <div class="brand-sub">Grupo José Alves<br><b>Caderno de Vendas · Gerar PDF de Rotas</b></div>
   <div class="nav-links">
@@ -36,7 +36,16 @@
         <label>Gerência</label>
         <select id="fGc"><option value="">Selecione a gerência</option></select>
       </div>
+      <div class="field">
+        <label>Dia de visita</label>
+        <select id="fDia"></select>
+      </div>
       <button class="btn" id="btnGerar" disabled>Gerar PDF</button>
+    </div>
+    <div class="panel-sub" style="margin-top:10px">
+      Cada página traz somente os <b>clientes com visita agendada no dia selecionado</b>,
+      em colunas por Agrupador de Produto — os que ainda não compraram aquele agrupador
+      aparecem destacados, para orientar o roteiro do consultor.
     </div>
     <div id="status" style="margin-top:12px; font-size:13px; color:var(--text-dim)"></div>
   </div>
