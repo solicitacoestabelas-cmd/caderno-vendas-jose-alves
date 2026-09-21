@@ -16,15 +16,19 @@ const CadernoData = (() => {
   const _clienteProdutoCache = new Map();
 
   async function loadAll() {
-    const [hier, fp, fc, ka, cal, res, ge] = await Promise.all([
+    const [hier, fp, fc1, fc2, ka, cal, res, ge] = await Promise.all([
       fetch(`${DATA_BASE}/dim_hierarquia.json`).then(r => r.json()),
       fetch(`${DATA_BASE}/fato_produto.json`).then(r => r.json()),
-      fetch(`${DATA_BASE}/fato_cliente.json`).then(r => r.json()),
+      // fato_cliente.json é dividido em 2 partes (limite de tamanho de upload) —
+      // sempre carregadas juntas e concatenadas aqui.
+      fetch(`${DATA_BASE}/fato_cliente_1.json`).then(r => r.json()),
+      fetch(`${DATA_BASE}/fato_cliente_2.json`).then(r => r.json()),
       fetch(`${DATA_BASE}/fato_keyaccount.json`).then(r => r.json()),
       fetch(`${DATA_BASE}/calendario.json`).then(r => r.json()),
       fetch(`${DATA_BASE}/resumo.json`).then(r => r.json()),
       fetch(`${DATA_BASE}/dim_grupo_especie.json`).then(r => r.json()),
     ]);
+    const fc = fc1.concat(fc2);
     _hierarquia = hier; _fatoProduto = fp; _fatoCliente = fc;
     _fatoKA = ka; _calendario = cal; _resumo = res; _grupoEspecieOrder = ge;
     return { hier, fp, fc, ka, cal, res, ge };
