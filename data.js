@@ -13,10 +13,11 @@ const CadernoData = (() => {
   let _calendario = null;
   let _resumo = null;
   let _grupoEspecieOrder = null;
+  let _pessoas = null;
   const _clienteProdutoCache = new Map();
 
   async function loadAll() {
-    const [hier, fp, fc1, fc2, ka, cal, res, ge] = await Promise.all([
+    const [hier, fp, fc1, fc2, ka, cal, res, ge, pes] = await Promise.all([
       fetch(`${DATA_BASE}/dim_hierarquia.json`).then(r => r.json()),
       fetch(`${DATA_BASE}/fato_produto.json`).then(r => r.json()),
       // fato_cliente.json é dividido em 2 partes (limite de tamanho de upload) —
@@ -27,11 +28,24 @@ const CadernoData = (() => {
       fetch(`${DATA_BASE}/calendario.json`).then(r => r.json()),
       fetch(`${DATA_BASE}/resumo.json`).then(r => r.json()),
       fetch(`${DATA_BASE}/dim_grupo_especie.json`).then(r => r.json()),
+      fetch(`${DATA_BASE}/dim_pessoas.json`).then(r => r.json()).catch(() => ({ rotas: {}, supervisoes: {}, gerencias: {} })),
     ]);
     const fc = fc1.concat(fc2);
     _hierarquia = hier; _fatoProduto = fp; _fatoCliente = fc;
     _fatoKA = ka; _calendario = cal; _resumo = res; _grupoEspecieOrder = ge;
-    return { hier, fp, fc, ka, cal, res, ge };
+    _pessoas = pes;
+    return { hier, fp, fc, ka, cal, res, ge, pes };
+  }
+
+  // Nomes de vendedor/supervisor/gerente para uma rota (usado no cabeçalho do PDF).
+  function getPessoas(rota) {
+    const sv = findSupervisaoOfRota(rota);
+    const gc = findGcCruaOfSupervisao(sv);
+    return {
+      vendedor: (_pessoas && _pessoas.rotas && _pessoas.rotas[rota]) || null,
+      supervisor: (_pessoas && _pessoas.supervisoes && _pessoas.supervisoes[sv]) || null,
+      gerente: (_pessoas && _pessoas.gerencias && _pessoas.gerencias[gc]) || null,
+    };
   }
 
   // Carrega sob demanda a matriz esparsa cliente x produto de UMA rota
@@ -245,5 +259,6 @@ const CadernoData = (() => {
     findGcAgrupadaOfCrua, findGcCruaOfSupervisao, findSupervisaoOfRota,
     filterProduto, filterCliente,
     aggregate, aggregateByKey, clientStats,
+    getPessoas,
   };
 })();
